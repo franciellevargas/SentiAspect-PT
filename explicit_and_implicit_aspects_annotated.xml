@@ -1,0 +1,935 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<data-set xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<record>
+		<Domain>Smartphone</Domain>
+		<Review>O aparelho é excelente! Vale a pena. Vc tem um ótimo smart phone com um preço acessível. O que gostei: Bateria tem ótima durabilidade, fácil de usar.. Wi Fi funciona direitinho... muito rápido... ótimo para escrever mensagens de texto.. Teclado qwert facilita muito... tem muitas funções! O que não gostei: Acho que só pq não tem gps, mesmo assim dá pra usar o guia de mapas que já vem no aparelho.</Review>
+		<Explicit>Aparelho, Smartphone, Wifi, Funcao, Preco, Bateria, Teclado, GPS</Explicit>
+		<Implicit>Rapido, Facil de Usar</Implicit>
+	</record>
+	<record>
+		<Domain>Smartphone</Domain>
+		<Review>Com menos de 12 dias de uso ele travou o touch, os aplicativos caem com frequência na hora do uso, se ele estiver em algum aplicativo com Facebock, a bateria dele dura muito pouco tempo, a internet dele se não for wi-fi é muito ruim, trava na hora que estou em uma ligação, parou de funcionar o touch no menu superior em 10 dias de uso... ARREPENDIMENTO TOTAAALLLL... Enviei para assistência da motorola e depois de 15 dias eles me devolveram sem conserto pq na nota fiscal não tem o número IMEI, solcitei o número do IMEI junto a empresa que me vendeu o produto e se vão mais 30 dias para eles enviarem a nf com os tais números. Depois mais 30 para a assistência me devolver consertado. Só prejuízo, estou super insatisfeita com a compra. O que gostei: Este celular é muito fácil de mexer, o touch dele é bem sensível. O que não gostei: Bateria que não dura, touch travado, aplicativos e internet que caem a todo momento</Review>
+		<Explicit>Internet, Wifi, Bateria, Aplicativo, Touch </Explicit>
+		<Implicit>Trava, Facil de mexer</Implicit>
+	</record>
+	<record>
+		<Domain>Smartphone</Domain>
+		<Review>NAO VALE A PENA. Eu tinha um N70 que dava de 10 a 0 neste modelo. Pelo preço e os recursos a pessoa fica iludida pensando que é bom negocio - NAO É!!! Se a Nokia mudar para modelos assim, perderá sua liderança. Aos teimosos (como eu) desejo melhor sorte. O que gostei: Design, preço, qualidade do audio, wireless. O que não gostei: Bateria dura pouco em relacao a outros modelos (nao chega a 7 dias), A CAMERA TRAVA CONSTANTEMENTE normalizando apenas quando removida a bateria, o bluetooth para uso com auto-radio (viva-voz) com muito ruido, as fotos sao de pessima qualidade - principalmente a noite - parece aquarela.</Review>
+		<Explicit>Modelo, Wireless, Recurso, Preco, Bateria, Qualidade do audio, Design, Camera, Foto, Bluetooth</Explicit>
+		<Implicit>s/n</Implicit>
+	</record>
+	<record>
+		<Domain>Smartphone</Domain>
+		<Review>Acho que uma empresa que se submete a utilizar a internet como meio entre ela e seu cliente, deve agir de maneira rápida, pois é isso que procuramos na internet. O que gostei: O produto deve ser bom mas a Miame Express não entrega! Pelo menos faz uma semana que comprei... Mais que isso!  O que não gostei: O fato de não consegui usá-lo.</Review>
+		<Explicit>Produto, Usabilidade, Empresa</Explicit>
+		<Implicit>s/n</Implicit>
+	</record>
+	<record>
+		<Domain>Smartphone</Domain>
+		<Review>Diferente desses produtos importados da China que não são homologados pela Anatel e a carga é tão ruim que precisam de duas baterias (como se fosse grande coisa), este possui todas as funções básicas que um celular precisa ter, exceto a TV... Possui rádio FM, MP3, a câmera, acreditem, tem ótima resolução se considerarmos a proporcionalidade em relação a outras (3.2) e a bateria... ...apenas UMA, mas com a carga superior em relação a esses importados. E ainda conta com dois chips que, também diferente desses chineses, ambos funcionam com ótima frequência e sem chiado... Caso um deles se apresente com baixo sinal, basta "fechar" o outro chip no menu de ferramentas e o sinal do outro melhora instantaneamente... Foi comprando um desses importados que descobri que o barato sai caro... E como as outras empresas ainda não se tocaram em relação aos celulares de dois chips, mantendo os preços enormes por causa disso, este é um ótimo concorrente, já que seu preço é inferior aos nacionais homologados. Ótimo custo-benefício!  O que gostei: Tudo  O que não gostei: Nada</Review>
+		<Explicit>
+Produto, Funcao, Preco, Custo-beneficio, Bateria,  Chip, Sinal, Tv</Explicit>
+		<Implicit>s/n</Implicit>
+	</record>
+	<record>
+		<Domain>Smartphone</Domain>
+		<Review>O mais importante a dizer é sobre a Loja Eletroni. Comprei lá pelo preço e pelos comentários de outros compradores, que não eram muito recomendadores, porém quis arriscar. Só que: 1. demorou 13 dias corridos para chegar; 2. o produto veio com o lacre rompido; 3. a caixa veio no meu endereço em nome de uma pessoa que não conheço; 4. não veio nem um dos folhetos explicativos nem a senha para o ano gratuito na loja de música da Nokia; segundo eles, eles compram de "importadores independentes" (???) que não oferecem esse brinde. Além disso: o WiFi não funcionava em todos os lugares, assim como o bluetooth. Conclusão: se eu resolvesse ficar sem o ano gratuito na loja de música, eu ia ter que levar o celular na assistência técnica, que só tem 2 locais em São Paulo (Guarulhos e Zona Leste)... Conclusão: devolvi o produto. Depois de pagar mais de R$30 de sedex e ter que ligar diariamente por 5 dias úteis cobrando meu dinheiro, recebi o dinheiro da compra integral de volta após ter ficado com o aparelho 1 semana. Foi uma novela infeliz ! O que gostei: Todas as funcionalidades desejáveis para quem usa o celular principalmente para ouvir música e navegar na internet (tela grande, botão de liga/desliga a mídia, botão de bloqueio/desbloqueio de tela, WiFi). O que não gostei: Meio pesado e com a pega desajeitada. A alça de prender fica embaixo, e não em cima.</Review>
+		<Explicit>Produto, Wifi, Funcionalidade, Preco, Tela, Musica, Bluetooth, Botao Liga/Desliga</Explicit>
+		<Implicit>Internet, Pesado</Implicit>
+	</record>
+	<record>
+		<Domain>Smartphone</Domain>
+		<Review>Câmera de 5MP, cobertura deslizante p/ a lente, flash de xênon (o flash ilumina muito bem, e comprar com um a câmera comum) luz de auto foco, cabo para TV para ver as imagens na tela grande é um celular completo internet, e-mail e radio FM. Ela tem tudo isso, mas com designer inteligente do lado do visor é só celular nem da p/ saber que é uma câmera. Qndo vc vira nem dar p/ saber que é um celular porque parece uma câmera p/ ligar a câmera basta abrir a cobertura da lente o botão o obturador fica ao lado quando vc deita o celular fica igual a uma câmera. Tem um obturador mecânico de verdade, auto foco de verdade e um monte de controles manuais como uma câmera. Um recurso que é bem legal e foto panorama, vc só tem que alinhar a primeira foto e aperta o obturador depois a câmera detecta o momento certo de tira as próximas fotos e depois ela emenda todas as fotos e cria um foto só, ou seja, ela junta três fotos à imagem fica bastante grande... O legal é qndo vc usa a câmera as tecla numérica se apagão e aparecem outros botões próprios para a câmera vc pode tirar a foto e enviar via internet ou rede WI-FI. A foto tirada pode ser revelada com até +ou - 40 centímetros, qualidade de som excelente Mp3 aceita SD de memória até 4gb e memória interna é de 500mb, Bluetooth não tem GPS mas para mim não é prioridade. Com tudo isso para kem ker ter um celular com todas as funcionalidades dos outros e uma excelente qualidade para tirar foto esse é o celular a um preço acessível. O que gostei: Os pros não cabem aqui então ao escrevi em minha opinião ai depois é só vcs tirarem as suas conclusões pq a minha eu já tirei e aprovo o produto. O que não gostei: Apenas dois botões que são pequenos mas nem posso chamar isso de contra</Review>
+		<Explicit>
+Celular, Internet, Funcionalidade, Recurso, Preco, GPS, Visor, Qualidade de Som, Mp3, Designer, Camera, Foco da Camera, Foto Panorama, Bluetooth, Botao, SD de memoria, Memoria Interna, Cabo da tv, Email, Radio, Imagem</Explicit>
+		<Implicit>s/n</Implicit>
+	</record>
+	<record>
+		<Domain>Smartphone</Domain>
+		<Review>Fiquei muito satisfeito com esse Smartphone e surpreso com relação ao seu excelente custo-benefício. O que gostei: Esse Smartphone é muito bom! -3G, funciona com sistema Symbiam/Java - alta interatividade;-Possibilidade de instalação de programas, jogos, etc, ambiente Synbiam/Java; -MP3, Rádio, Fotos e Vídeos; -Leitor de pdf, Word, etc; -Excelente custo-benefício;-Fone de ouvidos com funções Play/Pause, Rew e FF; -Bluetooth; -Excelente qualidade e volume de áudio. O que não gostei: O aparelho é um pouco lento, mas nada que atrapalhe sua usabilidade.</Review>
+		<Explicit>Smartphone, 3G, Usabilidade, Funcao, Custo-Beneficio, Volume do Audio, Mp3, Foto, Radio, Video, Leitor de pdf, Fone de ouvido, Jogo</Explicit>
+		<Implicit>Lento, Sistema Symbiam/Java</Implicit>
+	</record>
+	<record>
+		<Domain>Smartphone</Domain>
+		<Review>vale o invetimento mesmo sem GPS e 3G funções que para quem não usa não faz falta.O que gostei: Excelente celular, design moderno compacto, fácil manuseio, na linha touchscreen, excelente custo benefício, ótimo audio, boa resolução de camera, enfim para os que curtem aparelhos tocscreen uma ótima opção além de vir com 4gb e Wifi. O que não gostei: A autonomia da bateria em relação a outros do mercado podia durar mais.Podia vir com carregador de carro.</Review>
+		<Explicit>Celular, Wifi, 3G, Manuseio, Custo-Beneficio, Investimento, Bateria, GPS, Tocscreen, Audio, Design, Resolucao da Camera</Explicit>
+		<Implicit>s/n</Implicit>
+	</record>
+	<record>
+		<Domain>Smartphone</Domain>
+		<Review>Ótimo celular, preço bom, o manual vem em um arquivo no próprio celular. O que gostei: Tv excelente, grava os programas, câmera de boa qualidade. O que não gostei: Não possui wi-fi, os jogos são bloqueados, não vem com opção de usar google maps off-line.</Review>
+		<Explicit>Celular, Wifi, Preco, Google Maps, Camera, Tv, Manual</Explicit>
+		<Implicit>s/n</Implicit>
+	</record>
+	<record>
+		<Domain>Smartphone</Domain>
+		<Review>Não compre! Péssimo aparelho. Não funciona e conheço pessoas que também tiveram muitos problemas com esse aparelho. O que gostei: Tamanho pequeno e leve. O que não gostei: Não funciona! O celular trava, não liga, fica mudo de repente, a bateria não dura nada, a função de mudar música balançando o celular não funciona (e não serve pra nada, diga-se de passagem). Conheço outras pessoas que compraram e estão com o aparelho na assistência técnica há meses. Não compre!!!!</Review>
+		<Explicit>Aparelho, Funcao, Tamanho</Explicit>
+		<Implicit>Trava, Leve</Implicit>
+	</record>
+	<record>
+		<Domain>Smartphone</Domain>
+		<Review>Comprei este por ele ser mais acessivel (valor mais barato que os outros) embora seja praticamente um dos melhores populares. O melhor dos populares é o Ace, então igualando os dois, a única diferença é a camera que é 2MP. Mas também, o Pocket é mais aquisitivo que o Ace. Portanto escolhi ele, já que não é tão importante a camera. O que gostei: Processador bom, possui memória interna boa e o valor é mais aquisitivo. O que não gostei: apenas a camera que é 2MP</Review>
+		<Explicit>Valor, Camera, Memoria Interna, Processador</Explicit>
+		<Implicit>Acessivel</Implicit>
+	</record>
+	<record>
+		<Domain>Smartphone</Domain>
+		<Review>Pra quem gosta de ouvir música através do celular vai se decepcionar. Ele possui dois alto-falantes, um para conversação e outro para sons diversos, sendo que o de conversação não possui um som muito nítido e o para sons diversos não é estéreo e possui um som baixo. O aparelho vem acompanhado de uma caixinha de som (modelo MS-410) que pode ser conectada ao aparelho tornando o som externo estéreo e um pouco mais alto. Se quiser ouvir somente através dos fones, o aparelho oferece um som interno estéreo, porém, muito baixo também. Conseguirá ouvir com clareza só se estiver em ambientes bastante silenciosos. (Pesquisando pela internet é possível encontrar em fóruns outras pessoas que também observaram que o volume do aparelho é baixo. Pra quem acha que isso é relativo, já que a percepção auditiva pode variar de pessoa para pessoa.) O sistema operacional é o Symbian que, além de não ser atualizado no aparelho para eliminação de bugs, a qualidade e recursos oferecidos são muito inferiores a sistemas como Android, IOS ou Windows Phone. Possui um pobre acervo de aplicativos. Conclusão: pra quem só quer fazer ligações e tirar fotos, ou seja, pra quem está mais interessado na câmera de 12Mp eu recomendo; agora, pra quem quer um aparelho completo para conversar, acessar a internet, ver vídeos, encontrar aplicativos interessantes e bem feitos, tirar fotos e conseguir ouvir um som de qualidade ai eu não recomendo. O que gostei: Câmera de 12Mp; Flash Xenon. O que não gostei: Bateria dura pouco tempo; Tela touch resistiva: responde bem, mas aceita apenas um toque; Sistema operacional Symbian com bugs; Volume do som externo e interno é muito baixo; Som externo mono; Possui o Realplayer, mas vídeos em formato RMVB rodam travando e você acaba tendo que convertê-los pra algum outro formato que roda sem travar como o MP4 e o WMV ? outros formatos de vídeo aceitos eu não tive a oportunidade de testar.</Review>
+		<Explicit>Aparelho, Celular, Recurso, Bateria, Aplicativo, Tela, Som, Volume, Flash da Camera, Video, Sistema Operacional, Alto-falante</Explicit>
+		<Implicit>s/n</Implicit>
+	</record>
+	<record>
+		<Domain>Smartphone</Domain>
+		<Review>Não atende ao oferecido, linguagem e menus excessivos para funções simples. Além de não ser móvel(se desligar do carregador não passa três horas, é terrível). Devolvi à loja. Espero que a mesma seja sensata e cancele a compra. Pois o produto não presta. É um desrespeito ao consumidor. O que gostei: bonito. O que não gostei: descarrega e se desliga de uma a três horas, terrível, não presta</Review>
+		<Explicit>Produto, Menu, Funcao</Explicit>
+		<Implicit>Linguagem, Descarrega, Bonito</Implicit>
+	</record>
+	<record>
+		<Domain>Smartphone</Domain>
+		<Review>Pessimo aparelho em quesitos tecnicos, celular trava, congela, restarta, tudo que voce vai fazer diz que a memoria esta cheia e nao consegue executar os aplicativos. No primeiro dia de compra ja voltei na loja, atualizaram e nada. Em dois dias, voltei na loja e disseram pra ir na assistencia tecnica. É um absurdo comprar um produto novo, zero tirado da caixa e ter que mandar pra assistenia. A Nokia é totalmente displicente e sem compromisso com o usuario. Nokia nunca mais. Pra vender é facil, agora pra vc ter seus direitos, ai é o problema!! Não comprem Nokia. O que gostei: Pela dor de cabeça que dá, nao vejo nenhum pró, só pesquisar NOKIA C6 no site reclame aqui. O que não gostei: Tudo imaginavel, celular trava, congela, restarta, tudo que voce vai fazer diz que a memoria esta cheia e nao consegue executar os aplicativos. No primeiro dia de compra ja voltei na loja, atualizaram e nada. Em dois dias, voltei na loja e disseram pra ir na assistencia tecnica. É um absurdo comprar um produto novo, zero tirado da caixa e ter que mandar pra assistenia. A Nokia é totalmente displicente e sem compromisso com o usuario. Nokia nunca mais.</Review>
+		<Explicit>
+Aparelho, Produto, Aplicativo, Touch, Nokia, Memoria</Explicit>
+		<Implicit>Trava, Congela, Restarta</Implicit>
+	</record>
+	<record>
+		<Domain>Smartphone</Domain>
+		<Review>Já tinham me avisado para não comprar aparelho da Motorola. Não tem praticidade de uso. No anúncio diz que a bateria pode durar em standy bay de 4 dias em diante, MENTIRA, dura no máximo dois dias mesmo sem uso. E um detalhe HORRÍVEL é que demora 4 horas para carregar. RIDÍCULO. ABSURDO. O que gostei: NÃO SEI. O que não gostei: NÃO COMPREM. O display não fica acesso mais de 10 segundos. No anúncio diz que a bateria pode durar em standy bay de 4 dias em diante, MENTIRA, dura no máximo dois dias mesmo sem uso.E um detalhe HORRÍVEL é que demora 4 horas para carregar. Já tive outros aparelhos e demorava no máximo 1:30 p/ carre</Review>
+		<Explicit>Aparelho, Praticidade, Bateria, Display, Motorola</Explicit>
+		<Implicit>s/n</Implicit>
+	</record>
+	<record>
+		<Domain>Smartphone</Domain>
+		<Review>TIRA FOTOS MAS NÃO TEM COMO BAIXÁ-LAS, NEM POR MENSAGEM, NEM POR CABO. A CÂMERA SERVE PRA QUE ENTÃO? PRA NADA... UMA PORCARIA, FUI ENGANADO.O que gostei: É BARATO, E MAIS NADA. O que não gostei: TIRA FOTOS MAS NÃO TEM COMO BAIXÁ-LAS, NEM POR MENSAGEM, NEM POR CABO. A CÂMERA SERVE PRA QUE ENTÃO? PRA NADA... UMA PORCARIA, FUI ENGANADO.</Review>
+		<Explicit>
+Camera, Foto</Explicit>
+		<Implicit>Porcaria, Barato</Implicit>
+	</record>
+	<record>
+		<Domain>Smartphone</Domain>
+		<Review>NÃO POSSO TER OPINIÃO. COMPREI O APARELHO E SÓ FUNCIONOU POR 02 DIAS. ESTÁ DESDE 09/07/07 NA ASSISTÊNCIA TÉCNICA AGUARDANDO PEÇAS DA LG O SAC DA LG RESPONDE A MAIS DE 50 DIAS : " SOLICITAÇÃO EM ANÁLISE". O que gostei: DESIGN, TAMANHO, PREÇO. O que não gostei: NÃO EXISTE RESPEITO DA LG PARA SEUS CONSUMIDORES</Review>
+		<Explicit>Aparelho, Preco, Design, LG, Tamanho</Explicit>
+		<Implicit>s/n</Implicit>
+	</record>
+	<record>
+		<Domain>Smartphone</Domain>
+		<Review>Não comprem esse modelo da Motorola pois o mesmo tem problemas todos os tipos de problemas. O que gostei: Nenhum. O que não gostei: Comprei esse modelo da motorola, XT317 e tive uma enorme decepçao. O aparelho trava constantemente, desconecta o cartao de memoria sem nenhum comando. Para sem motivo de funcionar um dos SIM. Desliga sozinho. Ou seja, é um absurdo a Motorola manter no mercado um produto como este. As proprias assistencias tecnicas afirmam que o produto nao funciona bem. Portanto, cancelei a compra e solicitei a devoluçao do meu dinheiro.</Review>
+		<Explicit>Modelo, Aparelho,  Motorola,  SIM, Cartao de Memoria</Explicit>
+		<Implicit>Trava</Implicit>
+	</record>
+	<record>
+		<Domain>Smartphone</Domain>
+		<Review>Após 2 semanas de uso, o aparelho simplesmente apagou, não ligava mais. Encaminhei para a assistencia técnica da Sony Ericson, PÉSSIMO ATENDIMENTO, ME DERAM VARIOS PRAZOS E NÃO RESOLVEM O MEU PROBLEMA.PASSARAM 39 DIAS, E A ASSISTENCIA TECNICA DA SONY NÃO RESOLVEU O PROBLEMA! EU NÃO FUI O UNICO, EXISTEM VÁRIOS FÓRUNS RELATANDO PROBLEMAS PARECIDOS....NÃO RECOMENDO À NINGUÉM, POIS SE O APARELHO DER QQ PROBLEMA, VAI ACONTECER O QUE ESTÁ ACONTECENDO COMIGO, MUITA DOR DE CABEÇA!!!!!!!!!POR FAVOR CLIQUE ABAIXO E CONSIDERE ESSA OPINIÃO UTIL, ISSO PODE EVITAR QUE OUTRAS PESSOAS TENHAM O MESMO PROBLEMA QUE EU TIVE.......CELULAR SONY ERICSON NUNCA MAIS!!!!! O que gostei: considerando apenas os recursos, sem levar em conta durabilidade e qualidade, é um bom aparelho. O que não gostei: Quebrou em um mes, fazem 39 dias e a Sony Ericson não resolveuy o problema, o pior suporte que já vi na minha vida</Review>
+		<Explicit>Celular, Aparelho, Recurso, Sony, Sony Ericson, Durabilidade</Explicit>
+		<Implicit>s/n</Implicit>
+	</record>
+	<record>
+		<Domain>Smartphone</Domain>
+		<Review>NÃO COMPREM!! NÃO COMPREM!!-SONY ERICSSON W300i. Comprei este aparelho pelo site das Lojas Americanas.com, recebi o mesmo no dia 07/05 e instalei o CD FORNECIDO PELO FABRICANTE que vem junto com o aparelho que permite baixar fotos e etc. Pronto, foi só instalar e vir os problemas. O botão de ALTERAR/REMOVER programas tinha SUMIDO de todos os programas, então se eu quisesse remover algo não poderia. Achei estranho, passei um antivírus, desfragmentei e reiniciei a máquina e continuava sem os botões de ALTERAR/REMOVER programas. Como tenho o Windows XP home edition original liguei no dia 17/05 às 11h00minh +- para o 0800-8884081 da Microsoft Brasil e fui atendido pelo Sr Felipe através do número de SUPORTE SRG 070517600126 e foi constatado que APÓS A INSTALAÇÃO DO SOFTWARE DO CD DO FABRICANTE DESTE CELULAR foi gerado ERRO EM MEU PROGRAMA OPERACIONAL. Este software de alguma forma apagou boa parte de meus programas operacionais. O procedimento adotado foi entrar em INICIAR/TODOS OS PROGRAMAS/ACESSÓRIOS/FERRAMENTAS DO SISTEMA/RESTAURAÇÃO DO SISTEMA em até um dia antes de eu instalar este CD do celular. Deu tudo certo.? O ERRO VOLTOU NOVAMENTE conforme informado acima. Liguei novamente às 14h00mins deste mesmo dia para o 0800 da Microsoft, fui atendido pelo David Alves e foi feito todo o procedimento de novo e fui informado ter algum programa que pode estar CORROMPENDO OS REGISTROS de meu computador.Obs: Meu amigo comprou o mesmo aparelho e o dele ficou com a tela branca(autorizada. O que gostei: ele é bonito. O que não gostei: Meu amigo comprou um e na hora de ligar ficou com a tela branca. Resultado já foi 02 vezes para autorizada. O CD de instalação dele FERROU meu computador, quero saber quem vai se responsabilizar.</Review>
+		<Explicit>Aparelho, Botao, Programa Operacional, Software </Explicit>
+		<Implicit>Bonito</Implicit>
+	</record>
+	<record>
+		<Domain>Smartphone</Domain>
+		<Review>Mais outro aparelho ordinário da Motorola. Passei 8 anos sem comprar essa marca e cai no conto do otário de novo. Primeiro de tudo, antes de se acessar a internet você precisa reiniciar o aparelho para que o sinal 2 ou 3G apareça. Se isso nao acontecer você deve ir em programa e limpar o cache do navegador e reiniciar o celular novamente e ele voltará a se conectar. Bem legal ficar fazendo isso sempre que quiser se conectar. Uma vez conectado você irá desfrutar da banda estreira brasileira. Passando o sufoco voce quer instalar algo? Nao instale, porque se instalar o funcionanmento do dual chip que já era ruim fica impossível. O telefone só irá funcionar um chip de cada vez. Se querem comprar um smart phone dual esqueçam ou optem pelo samsung que é a única marca que não vende celular com defeito de fábrica. Resumindo, quero ser o maior *** do mundo se voltar a comprar nessa vida uma aparelho dessa marca. O que gostei: Dual Chip e Design.O que não gostei: Aparelo cheios de bugs. Não funciona dual chip direito, trava chips. Instalação de programa detona o sistema operacional e piora ainda mais o uso de dois chips. Uma droga de aparelho. Não recomendo ninguém comprar</Review>
+		<Explicit>Aparelho, Smartphone, Marca, Telefone, Celular, Internet, 3G, Design, Dual Chip, Sinal, Sistema Operacional</Explicit>
+		<Implicit>Cheio de Bugs, Trava</Implicit>
+	</record>
+	<record>
+		<Domain>Smartphone</Domain>
+		<Review>Produto consistente com as especificações do fabricante mas com alguns problemas de interface e botões de toque com baixa/confusa resposta (problema é minimizado após pegar o jeito da coisa e onde não deve-se tocar para o menu funcionar como desejado).Infelizmente o produto é jogado no patamar ainda abaixo dos defeitos que poderiam ser relevados devidos a bloqueios de funções como instalação de aplicativos via Bluetooth e bloqueios da operadora VIVO. Aplicativo de sincronia de dados sobre de falta de compatibilidade em inúmeros sistemas e passa a ser apenas um item decorativo da página da web do produto. O que gostei: bonito e botões físicos de ótima qualidade. O que não gostei: Péssimo tempo de resposta nos botões de toque. Bloqueio desnecessário de envio de applicativos via Bluetooth. Falta de conexão padrão USB/microUSB para dados/carregamento. Sem expansão de memória.</Review>
+		<Explicit>
+Produto, Conexao, Interface, Menu, Funcao, Tempo de resposta, Aplicativo, Fabricante, Botao de toque, Memoria, Usb, Sincronizacao de dados</Explicit>
+		<Implicit>Falta de compatibilidade</Implicit>
+	</record>
+	<record>
+		<Domain>Smartphone</Domain>
+		<Review>A bateria está com defeito. Não dura nem 30 horas, usando pouco. Ficou uma semana na autorizada e voltou do mesmo jeito. Estou completamente insatisfeita. O que gostei: Bonito, mas não posso usar os recursos por causa da bateria...O que não gostei: Bateria acaba quando eu mais preciso.</Review>
+		<Explicit>Recurso, Bateria</Explicit>
+		<Implicit>Bonito</Implicit>
+	</record>
+	<record>
+		<Domain>Smartphone</Domain>
+		<Review>DUAL CHIP, NAO PRECISA TIRAR A BATERIA PRA COLOCAR O SEGUNDO CHIP(PRATICO), BATERIA DURAVEL COM 1 CHIP EM FUNCIONAMENTO...COM 2 CAI DRASTICAMENTE O TEMPO DE DURAÇAO. ..CELULAR MUITO BONITO MAS COM MUITAS PISADAS NA BOLA DA NOKIA. LEIA AS NEGATIVAS...O PIOR É A TELA POR TOQUE....UM LIXO.DECEPCIONANTE. POUCA AUTONOMIA DA BATERIA COM OS DOIS CHIPS EM FUNCIONAMENTO, SOM MUITO FRACO....CHEGA A SER DECEPCIONANTE....PELO PREÇO DEVIA SER MAIS COMPLETO. NAO POSSUI WI FI. TELA TOUCH SCREEN DE BAIXA QUALIDADE....A SENSIBILIDADE E HORRIVEL...VC APERTA O DEDO E ELA DEMORA A RESPONDER.....LAMENTAVEL. CAMERA SOFRIVEL.DEVIA TER ESPERADO OUTRAS PESSOAS COMPRAREM.FIZ UM MAL NEGOCIO. ESTOU ARREPENDIDO DA COMPRA. ESPERAVA MAIS DE UM NOKIA.O que gostei: DUAL CHIP, NAO PRECISA TIRAR A BATERIA PRA COLOCAR O SEGUNDO CHIP(PRATICO), BATERIA DURAVEL COM 1 CHIP EM FUNCIONAMENTO...COM 2 CAI DRASTICAMENTE O TEMPO DE DURAÇAO. ..CELULAR MUITO BONITO MAS COM MUITAS PISDAS NA BOLA DA NOKIA. LEIA AS NEGATIVAS...O PIOR É A TELA POR TOQUE....UM LIXO.DECEPCIONANTE.O que não gostei: POUCA AUTONOMIA DA BATERIA COM OS DOIS CHIPS EM FUNCIONAMENTO, SOM MUITO FRACO....CHEGA A SER DECEPCIONANTE....PELO PREÇO DEVIA SER MAIS COMPLETO. NAO POSSUI WI FI. TELA TOUCH SCREEN DE BAIXA QUALIDADE....A SENSIBILIDADE E HORRIVEL...VC APERTA O DEDO E ELA DEMORA A RESPONDER.....LAMENTAVEL. CAMERA SOFRIVEL.DEVIA TER ESPERADO OUTRAS PESSOAS COMPRAREM.FIZ UM MAL NEGOCIO. ESTOU ARREPENDIDO DA COMPRA. ESPERAVA MAIS DE UM NOKIA.</Review>
+		<Explicit>
+Celular, Wi fi, Bateria, Touch Screen, Som, Camera, Fabricante, Dual Chip</Explicit>
+		<Implicit>Sensibilidade</Implicit>
+	</record>
+	<record>
+		<Domain>Smartphone</Domain>
+		<Review>Por ser uma aparelho moderno de última garação, deixou a desejar em alguns ítens. Quem compra um celular nesse nível é porque preza pela qualidade e recursos que ele oferece como uma boa câmera digital, mp3 player, gravador de voz e claro, um excelente telefone celular, mas a LG não se preocupou muito com detalhes importantes como a qualidade de audio (o som é fraquinho e distorce) e no mínimo uma câmera com zoom!Alem disso, não é quadri-band, (o vendedor da loja disse que era, só fiquei sabendo que não era depois que vi no site da LG)o que me deixou mais decepcionado ainda! Conclusão: Estou insatisfeito com o aparelho, não gostei e não recomendo. O que gostei: Design elegante, moderno e prático. O que não gostei: Câmera não possui zoom, som muito baixo para toques mp3, alto falante ditorce, qualidade de sinal um pouco fraca, deveria ser quadri-band.</Review>
+		<Explicit>Aparelho, Celular, Telefone, Funcao, Qualidade do Audio, Mp3 Player, Design, Camera Digital, Zoom, Sinal, Quadri-band, Auto-Falante, Toque, Gravador de voz</Explicit>
+		<Implicit>Pratico, Moderno</Implicit>
+	</record>
+	<record>
+		<Domain>Smartphone</Domain>
+		<Review>Este celular ganha muito no aspecto estetico, sua discriçao e leveza sao pontos fortes, mas eu gostaria de deixar bem registrado aqui que assim como TODOS os celulares da MOTOROLA, nao mais comprarei nenhum produto pois a autonomia da bateria e pessima, eu ,como medico, ja perdi inumeros contatos de pacientes pois a bateria havia acabado, ja deixei de atender a urgencias pelo mesmo problema.Gostaria que minha opniao fosse levada ao fabricante pois acho um descaso inumeras pessoas reclamaraem dos celulares e a MOTOROLA nao tomar nenhuma providencia!!! O que gostei: Facilidade dos menus interativos. O que não gostei: Pequena autonomia da bateria</Review>
+		<Explicit>
+Celular, Produto, Menu, Autonomia da bateria, Estetica, Fabricante</Explicit>
+		<Implicit>Leveza</Implicit>
+	</record>
+	<record>
+		<Domain>Smartphone</Domain>
+		<Review>A bateria do referido aparelho não chega nem perto de durar 24hs. O menu do aparelho também é complexo e nada intuitivo. O pior é que o vendedor oficial da loja TIM me advertiu que a bateria do aparelho durava pouco, só que não imaginei que pudesse durar menos que um expediente completo de trabalho. A Siemens deveria se envergonhar de colocar no mercado um produto de péssima qualidade como este aparelho de celular "AF 51". O que gostei: designe. O que não gostei: Duração da bateria e menu nem um pouco intuitivo.</Review>
+		<Explicit>Aparelho, Produto, Celular,  Menu, Duracao da Bateria, Designe, Siemens</Explicit>
+		<Implicit>s/n</Implicit>
+	</record>
+	<record>
+		<Domain>Smartphone</Domain>
+		<Review>Telefone moderno com muitas funções úteis. Mas ele tem uns "detalhes" que podem irritar ao longo do tempo: 1) despertador não repete, vc tem sempre que programar.... 2) não tem wi-fi, o que hoje em dia é um atraso; 3) pra mandar um torpedo, não há uma tecla direta, sempre terá que passar por vários passos; 4) e a bateria é lastimável, completamente incompatível! O que gostei: Tela com ótima definição. Nokia PC Suite é um ótimo gerenciador do telefone. Boa qualidade do áudio. O que não gostei: Péssima bateria. Um lixo! Acostume-se a levar sempre o carregador...</Review>
+		<Explicit>
+Telefone, Wi-fi, Funcao, Bateria, Tecla, Tela, Qualidade do audio, Carregador, Despertador</Explicit>
+		<Implicit>s/n</Implicit>
+	</record>
+	<record>
+		<Domain>Smartphone</Domain>
+		<Review>O celular é muito bonito, mas tem recursos limitados, seu processador dá a impressão de ser lento e é fácil de arranhar. Uma boa compra se o preço estiver muito atrativo, mas existem opções melhores pelo mesmo preço. Câmera com qualidade baixa, apesar dos 2 megapixels. O que gostei: Bonito. O que não gostei: Fácil de Arranhar, Vidro do flip pode quebrar facilmente em uma queda, Demora a responder aos comandos do teclado, resolução do visor interno mais baixa que o dos concorrentes, Bateria demora muito para carregar e descarrega rápido, Câmera com qualidade baixa.</Review>
+		<Explicit>Celular, Recurso, Preco, Bateria, Teclado, Vidro do Flip, Visor, Camera, Processador</Explicit>
+		<Implicit>Demora a responder, Bonito</Implicit>
+	</record>
+	<record>
+		<Domain>Smartphone</Domain>
+		<Review>A Nokia podia ter caprichado um poouco mais no design desse celular né? Mas como todo Nokia, é bom pra trabalho pesado. O que gostei: Robustez. O que não gostei: Design e tela</Review>
+		<Explicit>Aparelho, Tela, Design, Nokia</Explicit>
+		<Implicit>Robusto</Implicit>
+	</record>
+	<record>
+		<Domain>Smartphone</Domain>
+		<Review>Apesar de ser um aparelho que considero dos mais bonitos, com um design cuidadoso. O preço atualmente cobrado é exagerado e não corresponde aos recursos que o 6100 possui. Pelo mesmo preço há diversos aparelho já com câmera embutida. O que gostei: estilo, elegância, praticidade, tamanho. O que não gostei: preço, falta de recursos mais modernos.</Review>
+		<Explicit>
+Aparelho, Praticidade, Recurso, Preco, Estilo, Design, Tamanho</Explicit>
+		<Implicit>Elegancia</Implicit>
+	</record>
+	<record>
+		<Domain>Smartphone</Domain>
+		<Review>Bom aparelho quanto praticidade e beleza. Fraco com relação ás facilidades oferecidas por outros aparelhos. O que gostei: O tamanho do aparelho é muito bom, pode ser carregado no bolso da calça social ou jeans sem incômodo, evitando o uso aquelas presilhas afixadas ao cinto. O que não gostei: Aparelho muito frágil, risca a tela com facilidade e bateria dura pouco em relação a outros aparelhos, mesmo não tão modernos. Faltam acessórios e o software não é fácil de usar.</Review>
+		<Explicit>
+Aparelho, Praticidade, Bateria, Tela, Design, Software, Acessorio</Explicit>
+		<Implicit>Beleza</Implicit>
+	</record>
+	<record>
+		<Domain>Smartphone</Domain>
+		<Review>Tenho um a 6 meses, é um excelente aparelho, definição de imagem perfeita, faz tudo, o único defeito é a bateria que não aguenta 3 dias. O que gostei: Excelente em quase tudo. O que não gostei: Bateria aguenta pouco tempo.</Review>
+		<Explicit>
+Aparelho, Bateria, Definicao de imagem</Explicit>
+		<Implicit>s/n</Implicit>
+	</record>
+	<record>
+		<Domain>Smartphone</Domain>
+		<Review>um bom celular, prático para quem precisa de conexão com a internet e fotografia, sem exigência de grande definição. O que gostei: Boa velocidade na rede, bom design, operação fácil, tamanho adequado, suporta arquivos em mp3. O que não gostei: não abre anexos de e-mail, formato de bloco de notas incompatível com o outlook, não há como enviar aruivos de texto do pda para o celular</Review>
+		<Explicit>
+Celular, Internet, Velocidade, Mp3, Design, Fotografia, Email, Tamanho, Bloco de notas</Explicit>
+		<Implicit>Pratico, Operacao</Implicit>
+	</record>
+	<record>
+		<Domain>Smartphone</Domain>
+		<Review>Quando comprei este produto tinha uma espectativa de muitos recursos e novidades. Quando pus as mão nele, me frustei um pouco. De recursos especiais ele nao tem nada. O mínimo que seria pelo menos viva voz e sincronização de dados do pc ele nao tem. O que gostei: Design muito bom. Conectividade boa. bom custo beneficio. Visor colorido de boa definição. O que não gostei: Tamanho do visor poderia ser melhor. Nao tem viva voz. Nao tem conectividade para sincronização de dados com pc.</Review>
+		<Explicit>
+Produto, Conectividade, Recurso, Custo, Visor, Tamanho do visor, Design, Sincronizacao de dados, Viva voz</Explicit>
+		<Implicit>s/n</Implicit>
+	</record>
+	<record>
+		<Domain>Smartphone</Domain>
+		<Review>é um bom produto, porém algumas falhas são encontradas como em qq outro cel. O que gostei: o produtoo é bem legal. Possui alkgumas teclas de atalho interessantes. Por exemplo a lista de chamadas já mostra quem te ligou, para quem vc ligou e as chamadas perdidas. Tudo na mesma tela. A agenda de tel tb é bem prática e vc não precisa ficar clicando no nome pra saber o tel. O que não gostei: os toques são mto ruins e os menus mto complicados. Pra vc encontrar uma coisa simples como por exemplo um alarme vc tem q entrar em 3 telas diferentes.</Review>
+		<Explicit>
+Produto, Menu, Tecla de atalho, Toque</Explicit>
+		<Implicit>s/n</Implicit>
+	</record>
+	<record>
+		<Domain>Smartphone</Domain>
+		<Review>Um produto de durabilidade muito grande mas lento Comprei pois meu cunhado que trabalha com celulares disse que o aparelho era muito bom mas me decepcionei um pouco. O que gostei: Muito bom para se trabalhar, com uma variante grande de opcões de organiza~cao de dados. O que não gostei: A bateria nao dura tanto, acesso aos dados e um pouco lento e o problama de ser uma aparelho volumoso.</Review>
+		<Explicit>
+Produto, Aparelho, Opcao, Bateria, Durabilidade </Explicit>
+		<Implicit>Lento, Volumoso, Acesso aos dados</Implicit>
+	</record>
+	<record>
+		<Domain>Smartphone</Domain>
+		<Review>nao compraria de novo, mas infelizmente é um aparelho subsidiado da empresa, terei que adquirir um back up, pois vive com problema. O que gostei: é levinho, e de fácil manuseio. O que não gostei: sempre deu problema, a assistencia técnica nao tem peça de reposição, e a fabrica é lenta na solução.</Review>
+		<Explicit>
+Aparelho, Manuseio, Fabrica</Explicit>
+		<Implicit>Levinho</Implicit>
+	</record>
+	<record>
+		<Domain>Smartphone</Domain>
+		<Review>Se você quer um celular que traga confiabilidade, durabilidade e que tem uma empresa forte por trás, esse é o seu celular. O que gostei: Muito fácil de usar e com suas funções bem distribuida.O que não gostei: Não possui nenhuma função multimidia.</Review>
+		<Explicit>
+Celular, Funcao, Empresa, Durabilidade, Confiabilidade</Explicit>
+		<Implicit>Facil de usar</Implicit>
+	</record>
+	<record>
+		<Domain>Smartphone</Domain>
+		<Review>estava a procura de algo que realmente gostasse só no impacto de saber suas funções e este aparelho preencheu tudo isto e mais com preço dentro das minhas possibilidades. O que gostei: excelente em todos os quesitos. O que não gostei: ainda não tive nada contra</Review>
+		<Explicit>Aparelho, Funcao, Preco                    </Explicit>
+		<Implicit>s/n</Implicit>
+	</record>
+	<record>
+		<Domain>Smartphone</Domain>
+		<Review>Muito bom, ele é tão versátil que executa todo tipo de tarefa que você precisa de um celular e ainda sobra coisas que você não usa. Excelente custo-benefício. O que gostei: Câmera embutida, roda aplicativos em Java, tocas hits polifônicos, rádio FM, calendário com opções de adicionar notas, dentre outras funções. O que não gostei: Pra ele ser completo só faltava vir com o cabo-de-dados pois o mesmo avulso custa em torno de R$150,00 (original) e tocar MP3.</Review>
+		<Explicit>
+Aparelho, Celular, Custo-beneficio, Aplicativo, Mp3, Camera imbutido, Radio, Hit Polifonico, Calendario</Explicit>
+		<Implicit>Versatil</Implicit>
+	</record>
+	<record>
+		<Domain>Smartphone</Domain>
+		<Review>Toques polifónicos muito bonitos. Tela colorida. Facilidade de encontrar números na agenda. A antena é interna, sem problemas de quebrar! O que gostei: Tamanho. O que não gostei: Nada conta</Review>
+		<Explicit>
+Facilidade, Tela, Tamanho, Toque polifonico, Antena</Explicit>
+		<Implicit>s/n</Implicit>
+	</record>
+	<record>
+		<Domain>Smartphone</Domain>
+		<Review>Eu gostei muito produto vale a pena comprar e tirar ondas com amigos pois é um produto mais esporte. O que gostei: é pequeno e leve alem de bonito. O que não gostei: pega menos sinal que os outros nokia na ilha do fundão</Review>
+		<Explicit>
+Produto, Nokia, Sinal</Explicit>
+		<Implicit>Bonito, Leve, Pequeno</Implicit>
+	</record>
+	<record>
+		<Domain>Smartphone</Domain>
+		<Review>Um celular com interface muito simples, melhor bateria do mercado, se você está procurando um aparelho funcional e bonito, achou o melhor. O que gostei: Bateria com longa duração, interface simplificada que facilita o usuário a entender. O que não gostei: Preço ainda muito alto para poucas funcinalidades.</Review>
+		<Explicit>
+Celular, Aparelho, Interface, Funcionalidade, Preco, Bateria</Explicit>
+		<Implicit>Bonito</Implicit>
+	</record>
+	<record>
+		<Domain>Smartphone</Domain>
+		<Review>Possui o que há de mais atual em tecnologia para telefones e preço acessível. O que gostei: Possui cartão de expansão, EDGE, viva-voz, Mp3 Player, vem com fone de ouvido, faz videos, facil sicronização com o PC. O que não gostei: Cartão incluso com somente 32 megas. Gasta muita bateria.</Review>
+		<Explicit>
+Telefone, Preco, Bateria, Mp3, Cartao de Expansao, Video, Sincronizacao com PC, Viva Voz</Explicit>
+		<Implicit>s/n</Implicit>
+	</record>
+	<record>
+		<Domain>Smartphone</Domain>
+		<Review>aparelho sem restrições o melhor do mercado não saio nada melhor pelo menos pra mim. O que gostei: aparelho perfeito, para mim o melhor do mercado qualidade das fotos e perfeita. O que não gostei: no modulo para filmar poderia ter mais tempo e uma qualidade um pouco melhor mas no geral perfeito</Review>
+		<Explicit>Aparelho, Foto</Explicit>
+		<Implicit>Modulo de filmar </Implicit>
+	</record>
+	<record>
+		<Domain>Smartphone</Domain>
+		<Review>produto de um fabricante muito bom , tenho confiança na marca. Podem confiar. Alem do mais o celular é um dos melhores da atualidade. O que gostei: Eficiente e teclas de atalhos rápidas. O que não gostei: até agora não encontrei contras</Review>
+		<Explicit>Produto, Celular, Tecla de atalho, Fabricante, Marca</Explicit>
+		<Implicit>Confianca na Marca</Implicit>
+	</record>
+	<record>
+		<Domain>Smartphone</Domain>
+		<Review>Relação preço benefício excelente, possui uma boa câmera digital, inclusive para video. Bom espaço de memória. O que gostei: Recebi chamadas até na beira do Rio Paraná, divisa com o MS. O que não gostei: O som para ouvir as vezes fica baixo.</Review>
+		<Explicit>
+Preco-beneficio, som, camera digital, espaco de memoria, video </Explicit>
+		<Implicit>Recebi chamadas ate na beira do rio</Implicit>
+	</record>
+	<record>
+		<Domain>Smartphone</Domain>
+		<Review>quando ganhei de presente,achei muito pequeno e tinha medo de perder,mas depois acostumei e achei super pratico pois cabe em qualquer cantinho,é um celular facil de manusear pois tem todas as informações na propria tela,achei desnecessario ler o manual. O que gostei: é pequeno e por isso cabe em qualquer lugarda bolsa e até do bolso da calça.É facil de manusear e o principal funciona em qualquer lugar. O que não gostei: preciso bloquear o teclado pois senÃo ele faz ligações involuntarias quando sem querer encosta em alguma coisa</Review>
+		<Explicit>Teclado, Tela, Manual</Explicit>
+		<Implicit>Facil de manusear, Pratico, Funciona me qualquer lugar, Pequeno</Implicit>
+	</record>
+	<record>
+		<Domain>Smartphone</Domain>
+		<Review>ADORO OS EXTRAS! JOGAR GOLF NO APARELHO E MANDAR MENSAGENS ANIMADAS EM VIDEO PARA MEUS AMIGOS É MUITO DIVERTIDO E RELAXANTE. O que gostei: SOU CLIENTE DA MARCA SO TROQUEI O MODELO, SE 0 55 ERA FANTASTICO O 65 E COMPLETO. O que não gostei: VOCES PRECISAM ACORDAREM QTO AO PREÇO.</Review>
+		<Explicit>
+Aparelho, Modelo, Extra, Preco, Marca</Explicit>
+		<Implicit>s/n</Implicit>
+	</record>
+	<record>
+		<Domain>Smartphone</Domain>
+		<Review>Muito lindo toda hora estou manuseando ele pois não consigo me desgrudar dele. Se pudesse dois desses. O que gostei: muito moderno e arrojado possui todas as informações que eu quero e preciso pois utilizo o celular no meu dia-a-dia e de todos os que eu tive este foi o melhor que já adquiri.</Review>
+		<Explicit>Celular</Explicit>
+		<Implicit>Lindo, Moderno, Arrojado</Implicit>
+	</record>
+	<record>
+		<Domain>Smartphone</Domain>
+		<Review>O que gostei: Ótimo celular com a qualidade Nokia que conta muito, sempre muito fácil de mexer no menu, qualidade Nokia.O que não gostei: Nenhuma</Review>
+		<Explicit>
+Celular, Menu, Nokia</Explicit>
+		<Implicit>Facil de mexer</Implicit>
+	</record>
+	<record>
+		<Domain>Smartphone</Domain>
+		<Review>A nokia fun camera (acessorio) tem otima resolução alem de ter flash (os celulares com camera integrada não tem flash), os toques polifonicos tem bom volume, viva voz e alem de não ser pesado e não me arrependo de tê-lo comprado!!! O que gostei: Visor de alta resolução, toques polifonicos, nokia fun camera, design, facil manuseio, leve e compacto, funcionalidade, custo X beneficio, viva voz!!!! O que não gostei: Noi meu quando se conecta no WAP, o sinal cai de uma vez e ele desliga sozinho, pouca memoria (limitada em 700Kb)!!!!</Review>
+		<Explicit>
+Wap, Manuseio, Funcionalidade, Custo, Visor, Design, Flash da camera, Sinal, Espaco de memoria, Toque polifonico, Viva voz</Explicit>
+		<Implicit>Pesado, Leve, Compacto</Implicit>
+	</record>
+	<record>
+		<Domain>Smartphone</Domain>
+		<Review>Excelente !!! Recursos jamais vistos juntos em um único celular: Câmera digital de 2.0 Mega Pixels, filmadora digital, rádio FM, gravador, MP3, etc..O que gostei: Câmera digital de 2.0 Mega Pixels, filmadora digital, rádio FM, gravador, MP3, etc...O que não gostei: Design.</Review>
+		<Explicit>
+Celular, Recurso, Mp3, Design, Camera digital, Filmadora digital, Radio, Gravador</Explicit>
+		<Implicit>s/n</Implicit>
+	</record>
+	<record>
+		<Domain>Smartphone</Domain>
+		<Review>Para um celular moderno e chique esse é recomendado com certeza maravilha de telefone para ficar pendurado o dia todo telefonando. O que gostei: Nenhum. O que não gostei: Nenhum</Review>
+		<Explicit>
+Celular, Telefone </Explicit>
+		<Implicit>Modeno, Chique</Implicit>
+	</record>
+	<record>
+		<Domain>Smartphone</Domain>
+		<Review>O principal atrativo dele, sem dúvida é o tamanho. Além de ser pequeno, a recepção é muito boa e ele nunca dá problema. Ele não tem câmera, mas para mim, o que importa é ser pequeno e funcionar bem. E isso ele faz, sem sombra de dúvidas! O que gostei: É bem pequeno e cabe na bolsa, além de ser lindo!!! Todo mundo que vê, apaixona! O que não gostei: Em 1 ano de uso, ainda não encontrei nem um defeito.</Review>
+		<Explicit>Camera, Tamanho</Explicit>
+		<Implicit>Lindo, A recepcao e boa</Implicit>
+	</record>
+	<record>
+		<Domain>Smartphone</Domain>
+		<Review>É uma aparelho que chegou no mercado com um desing inovador! Porque inovador? inovador porque ele tem um desing de camera digital e tem todos os recursos de um aparelho celular top de linha.Tem 41MB de memoria interna,isso garante voce a colocar mais ou menos umas 10 musicas no formato mp3, sem falar que a qualidade sonora é otima ainda mais quando voce ouve usando o fone de ouvido estéreo,isso proporciona uma maior qualidade de sonorização sem falar que parece que voce está ouvindo musica de CD normal,eu garanto! é qualidade de CD. Agora vamos falar um pouco da qualidade das fotos, voce pode escolher entre tres formatos de qualidade na hora de tirar suas fotos,são elas:Baixa qualidade,média qualidade e qualidade alta,mas tem uma coisa,comparando a baixa qualidade das fotos do K700i é a mesma qualidade dos outros aparelhos que tem no mercado,imagina só se voce colocar pra tirar as fotos em qualidade alta,isso mesmo! As fotos ficam perfeitas,ainda tem mais,voce pode tirar suas fotos a noite tambem sem nenhum problema,isso porque o aparelho possui uma luz de flash. Voce tem uma maior facilidade quando se trata de facilidade,isso porque os menus são separados por icones animados e dentro de cada icone tem os submenus com as respectivas funções,como por exemplo:Agenda,Multimidia,Camera e etc.Mas lembre-se de uma coisa!voce comprando um K700i,voce nao apenas estará comprando um aparelho celular,mas sim uma camera digital com recursos para fazer ligações telefonicas e conectar na net. O que gostei: Não tem cartão de mémoria.O que não gostei: Não tem cartão de mémoria.</Review>
+		<Explicit>Aparelho Celular, Aparelho, Net, Menu, Funcao, Qualidade sonora, Qualidade de sonorizacao, Desing, Camera digital, Luz do flash, qualidade da foto, Memoria interna, Cartao de memoria</Explicit>
+		<Implicit>Ligacao Telefonica</Implicit>
+	</record>
+	<record>
+		<Domain>Smartphone</Domain>
+		<Review>Trata-se de um celular completo! Tira e envia fotos com boa qualidade e rapidez, além de possuir recursos como viva-voz e gravador de sons ambientes que podem ser utilizados como campanhias polifônicas. Excelente relação custo benefício. Tenho há um ano e não troco por outros - ainda que mais modernos - não tem a mesma tecnologia. O que gostei: Design futurista lembrando a letra X estilizada;
+Enormidade de recursos tecnológicos inovadores, tais como: personalização da agenda telefônica com anexação de foto, música ou gravura aos números registrado. O que não gostei: Não encontrei nunhum defeito.</Review>
+		<Explicit>Aparelho celular, Celular, Recurso, Custo</Explicit>
+		<Implicit>Rapidez</Implicit>
+	</record>
+	<record>
+		<Domain>Smartphone</Domain>
+		<Review>não tenho opiniões contra este produto, comparando com as outras marcas prefiro os da Siemens, este modelo sem duvida compensa pelo preço, se vc quer um celular barato e ao mesmo tempo atual este eu recomendo. O que gostei: A Siemens é uma marca que sempre trás equipamentos de qualidade e com alta confiabilidade, quando compro telefones celulares sempre compro dessa marca e nunca me arrependo, os celulares tem um preço acessível e ao mesmo tempo vc compra um produto de qualidade superior. O que não gostei: nenhuma</Review>
+		<Explicit>
+Produto, Modelo, Celular, Preco, Marca, Confiabilidade</Explicit>
+		<Implicit>Atual</Implicit>
+	</record>
+	<record>
+		<Domain>Camera</Domain>
+		<Review>muito bom produto, recomendo, tem ótima relação custo beneficio. O que gostei: função de seleção automatica de modo de imagem. O que não gostei: o modo noite não é bom</Review>
+		<Explicit>Produto,  Custo, Funcao, Modo de imagem</Explicit>
+		<Implicit>Modo noite</Implicit>
+	</record>
+	<record>
+		<Domain>Camera</Domain>
+		<Review>Vale a pena cada centavo investido nesta máquina. O que gostei: Excelente qualidade da imagem; Bonita; Fácil manuseio. O que não gostei: Acessórios somente da Sony</Review>
+		<Explicit>Maquina, Manuseio, Qualidade da imagem, Acessorio</Explicit>
+		<Implicit>Bonita</Implicit>
+	</record>
+	<record>
+		<Domain>Camera</Domain>
+		<Review>O preço é compatível com a qualidade imbatível de uma Sony. Voltaria a comprar com certeza. Eu recomendo. O que gostei: Altíssima resolução. Bateria com uma duração excelente. Dá para tirar centenas de fotos, filmar a vontade que ela aguenta. E na hora de carregar ela é excelente.O que não gostei: Achei aquele botão redondo que fica na parte traseira da máquina, onde você busca as funções da máquina, de manuseio um pouco lento. Isso se dá o fato dele ser bem rente ao corpo da máquina, sendo que foi deixado apenas um rebaixo na lateral para facilitar o uso.</Review>
+		<Explicit>Preco, Funcao, Manuseio, Sony, Bateria, Botao, Resolucao</Explicit>
+		<Implicit>s/n</Implicit>
+	</record>
+	<record>
+		<Domain>Camera</Domain>
+		<Review>Facil de usar. e se voce gosta de telescópio...ela e um telescópio que tira fotos e ainda grava video em full HD. link para ver foto panorâmica. http://www.panoramio.com/photo/29693449. O que gostei: Tudo</Review>
+		<Explicit>Foto, Video</Explicit>
+		<Implicit>Facil de usar</Implicit>
+	</record>
+	<record>
+		<Domain>Camera</Domain>
+		<Review>òtimo produto, excelente qualidade de resolução nas fotos e nos vídeos de alta definição. Estou satisfeito! O que gostei: òtimo produto, excelente qualidade de resolução nas fotos e nos vídeos de alta definição. Estou satisfeito! O que não gostei: Não tem menu em portugues, o que na verdade pra mim não tem problema algum, coloquei em espanhol e da pra entender muito bem.</Review>
+		<Explicit>Produto, Menu, Resolucao da foto, Resolucao do video.</Explicit>
+		<Implicit>s/n</Implicit>
+	</record>
+	<record>
+		<Domain>Camera</Domain>
+		<Review>Este produto tem um bom acabameto em geral. O que gostei: bom acabameto em geral. O que não gostei: O preço. </Review>
+		<Explicit>Produto, Preco, Acabamento</Explicit>
+		<Implicit>s/n</Implicit>
+	</record>
+	<record>
+		<Domain>Camera</Domain>
+		<Review>É uma ótima câmera q alia a praticidade de uma câmera compacta à propriedades de câmera semiprofissional, como por exemplo controles de abertura do diafagma e de velocidade. O que gostei: É um produto excelente.O que não gostei: O preço não é tão competitivo comparado à outras câmeras compactas.</Review>
+		<Explicit>Camera,  Camera semiprofissional, Praticidade         </Explicit>
+		<Implicit>Compacta</Implicit>
+	</record>
+	<record>
+		<Domain>Camera</Domain>
+		<Review>Só está me faltando um flash à altura da câmera. O que gostei: Qualidade das fotos e dos vídeos. Recursos. O que não gostei: Fora o preço, nada.</Review>
+		<Explicit>Camera, Preco, Recurso, Qualidade de foto, Qualidade de vídeo, Flash</Explicit>
+		<Implicit>s/n</Implicit>
+	</record>
+	<record>
+		<Domain>Camera</Domain>
+		<Review>Fiz este pedido por meio deste site, na loja CBN Distribuição, contudo, até hoje não chegou, ultrapassando o prazo de entrega. Mandei vários emails e não obtive resposta. O que gostei: Fiz este pedido por meio deste site, na loja CBN Distribuição, contudo, até hoje não chegou, ultrapassando o prazo de entrega. Mandei vários emails e não obtive resposta. O que não gostei: Fiz este pedido por meio deste site, na loja CBN Distribuição, contudo, até hoje não chegou, ultrapassando o prazo de entrega. Mandei vários emails e não obtive resposta.</Review>
+		<Explicit>s/n</Explicit>
+		<Implicit>s/n</Implicit>
+	</record>
+	<record>
+		<Domain>Camera</Domain>
+		<Review>Sou fotógrafo exigente, inclusive com fotos em galerias. Esta é - sem dúvida - a melhor máquina que já usei. Ao verem as minhas fotos as pessoas perguntam se uso uma daqueles caras máquinas profissionais.
+Resposta: uso a FZ35 que é perfeita. O que gostei: Design, facilidade de uso, qualidade das fotos, qualidades dos filmes, consumo de energia, conectividade, filma em HD.O que não gostei: Nenhum.</Review>
+		<Explicit>Camera, Design, Qualidade de foto, Qualidade do filme, Consumo de energia, Conectividade</Explicit>
+		<Implicit>Facilidade de uso, Filma em HD</Implicit>
+	</record>
+	<record>
+		<Domain>Camera</Domain>
+		<Review>Muito boa uma da melhores que conheço com inumeros recursos,e uma ecelente qualidade de foto . O que gostei: Muita opções para fazer a foto diferente. O que não gostei: O valor</Review>
+		<Explicit>Valor, Recurso, Opcao de foto, Qualidade de foto</Explicit>
+		<Implicit>s/n</Implicit>
+	</record>
+	<record>
+		<Domain>Camera</Domain>
+		<Review>Essa máquina não serve nem como brinde, é um completo lixo. O que gostei: Nenhum. O que não gostei: Produto péssimo, design horrível, manual péssimo, aparência frágil, tela touch screen quase impossível de mexer, má qualidade em todos os sentidos.</Review>
+		<Explicit>Maquina, Produto, Aparencia, Design, Tela, Touch screen, Manual</Explicit>
+		<Implicit>s/n</Implicit>
+	</record>
+	<record>
+		<Domain>Camera</Domain>
+		<Review>Qualidade das fotos são as piores que vi em toda minha vida. E olha que eu trabalho a 25 anos com imagem. Não comprem! E o tratamento como cliente é péssimo. O que gostei: Nenhum. O que não gostei: Tudo.</Review>
+		<Explicit>qualidade da foto</Explicit>
+		<Implicit>s/n</Implicit>
+	</record>
+	<record>
+		<Domain>Camera</Domain>
+		<Review>comprei uma desta e a mesma apresentou defeito na primeira semana e ao invés da benq trocar estão arrumando minha máquina, vc gostaria de comprar uma máquina com defeito? não então compre de outra marca. a BENQ não respeita o consumidor. O que gostei: NADA. O que não gostei: VEIO DE FÁBRICA COM DEFEITO E ESTÃO CONSERTANDO AO INVÉS DE TROCAR</Review>
+		<Explicit>Maquina, Marca</Explicit>
+		<Implicit>s/n</Implicit>
+	</record>
+	<record>
+		<Domain>Camera</Domain>
+		<Review>QUANDO DECIDI PELO PRODUTO ,SÓ CONHECIA A MARCA. HOJE VEJO O QUANTO ESTA MÁQUINA FAZ MILAGRE!!!!O que gostei: IMAGEM LIMPA,O MANUSEIO É FACÍLIMO,SEU TAMANHO FACILITA O TRANSPORTE. O que não gostei: ANALISANDO O PRODUTO PROFUNDAMENTE,NÃO ENCONTREI NENHUM CONTRA,PELO CONTRÁRIO SÓ ENCONTREI VANTAGENS</Review>
+		<Explicit>Produto, Maquina, Manuseio, Imagem, Marca, Tamanho</Explicit>
+		<Implicit>s/n</Implicit>
+	</record>
+	<record>
+		<Domain>Camera</Domain>
+		<Review>É UMA camara PERFEITA, EXCELENTEE FOTOS E UM TAMANHO BOM DE MANUSEAR. O que gostei: Muito bom, recomendo</Review>
+		<Explicit>Camera, Foto, Tamanho</Explicit>
+		<Implicit>s/n</Implicit>
+	</record>
+	<record>
+		<Domain>Camera</Domain>
+		<Review>esse produto e muito bom pq um amigo tem um. O que gostei: eu quero esse premio. O que não gostei: nada contra a esse produto</Review>
+		<Explicit>Produto</Explicit>
+		<Implicit>s/n</Implicit>
+	</record>
+	<record>
+		<Domain>Camera</Domain>
+		<Review>Comprei esta câmera e e não primeira recarga da bateria não funcionou, veja a declaração da assistência técnica: RECEBEMOS SEU PRODUTO PARA ANÁLISE EM NOSSO DEPARTAMENTO DE ASSISTÊNCIA TÉCNICA, E INFORMAMOS QUE O PRODUTO ESTÁ DENTRO DAS ESPECIFICAÇÕES. O MESMO FOI TESTADO EM NOSSO LABORATÓRIO E NENHUM PROBLEMA FOI ENCONTRADO COM A CÂMERA. DESTA FORMA, ESTAMOS EFETUANDO A DEVOLUÇÃO DO EQUIPAMENTO. OBS INFORMAMOS QUE A BATERIA ESTAVA COMPLETAMENTE DESCARREGADA, SENDO ASSIM, ORIENTAMOS NÃO DEIXA-LA NO EQUIPAMENTO QUANDO O MESMO NÃO ESTIVER EM USO, POIS QUANDO ISSO OCORRE A CÂMERA NÃO CONSEGUE IDENTIFICAR A BATERIA PARA EFETUAR A CARGA. Agora nos não podemos mas usar a camera ate o fim da carga. Se eu soubesse desta informação antes eu não compraria ela. A camera chegou hoje da assistÊncia técnica, irei fazer alguns teste agora, se continuar com o mesmo defeito irei para a justiça para pegar o meu dinheiro de volta. O que gostei: Não vale a dor de cabeça. O que não gostei: A bateria não pode zera (Chegar até o fim)</Review>
+		<Explicit>Camera, Bateria</Explicit>
+		<Implicit>s/n</Implicit>
+	</record>
+	<record>
+		<Domain>Camera</Domain>
+		<Review>A CÂMERA DIGITAL OLYMPUS, VEM DESLIGANDO SOZINHA E EFETUANDO RUÍDOS, NÃO PERMITINDO SEU USO, MESMO COM BATERIA CARREGADA E CARTÃO DE MEMÓRIA NA POSIÇÃO CERTA. QUANDO OCORRE DE SE CONSEGUIR LIGAR ELA, CONSEGUE-SE APENAS AJUSTAR A DATA/HORA E AÍ VAI PARA O MENU ONDE O IDIOMA VEM EM JAPONÊS E TENTAR TROCAR O IDIOMA, A CÂMERA COMEÇA A FAZER RUÍDOS E DESLIGA SOZINHA. O que não gostei: câmera muito ruim, não arrisquem a sorte comprando.</Review>
+		<Explicit>Camera digital, Menu, Bateria, Cartao de Memoria</Explicit>
+		<Implicit>s/n</Implicit>
+	</record>
+	<record>
+		<Domain>Camera</Domain>
+		<Review>Na SEGUNDA foto tirada dentro da água a camera apagou, fui verificar e estava cheia dágua... Não veda direito, não impede entrada dágua, não presta!!!!! Perdi todas as fotos da minha viagem. FUJI NUNCA MAIS... Deviam mudar o nome de FUJI pra FUJA!!!!!! O que gostei: NENHUM!!!!!O que não gostei: TUDO!!!! Só é a prova dágua se a câmera ficar LONGE da água!!!!! Um LIXO de equipamento!! FUJAM!!!!</Review>
+		<Explicit>Camera, Fuji, Foto, Foto dentro d'agua        </Explicit>
+		<Implicit>s/n</Implicit>
+	</record>
+	<record>
+		<Domain>Camera</Domain>
+		<Review>bom produto. O que gostei: material...O que não gostei: tamanho...qualidade das fotos</Review>
+		<Explicit>Produto, Qualidade da foto, Tamanho</Explicit>
+		<Implicit>Material</Implicit>
+	</record>
+	<record>
+		<Domain>Camera</Domain>
+		<Review>Não tem manual em português; quando comprei não fui informada que a câmera não era vendida no Brail, por isso o manual em outro idioma; a câmera veio com defeito e embora a empresa tenha efetuado a troca, o produto tem o mesmo defeito; pensei da qualidade da imagem ser superior; o investimento não vale. O que gostei: O zoom realmente é bom.O que não gostei: Péssimo custo-benefício; por não ter um manual detalhado, o manuseio é difícil; fiquei decepcionada com a qualidade da imagem.</Review>
+		<Explicit>Produto, Camera, Investimento, Custo-beneficio, Manuseio, Qualidade da imagem, Empresa, Manual em portugues, Zoom</Explicit>
+		<Implicit>s/n</Implicit>
+	</record>
+	<record>
+		<Domain>Camera</Domain>
+		<Review>Produto horrível! Definitivamente não recomendo. Comprei esta máquina e depois de um mês o flash parou de funcionar. Tentei contatar o Sac para acionar a Garantia e levar até a Assistência Técnica e para minha surpresa não disponibilizam nada disso aqui no Brasil. Deviam ser proibidos de vender seus produtos aqui no Brasil pois não cumprem com nenhuma regulamentação. Paguei R$150 para consertar o flash. Depois de um ano ela sofreu a 1ª queda, e pronto parou de funcionar! Joguei no lixo pois ficaria mais caro consertar do que paguei por ela. Comprei uma Sony pois é uma marca super conhecida.Não me arrependo de ter pago o dobro que paguei pela Benq para ter uma câmera com qualidade. O que gostei: Pequena e leve; já vem com a capinha; tem uma duração por ciclo das pilhas muito bom.O que não gostei: Não possui nenhuma assistência técnica no Brasil; A garantia é curta e não funciona; Não disponibiliza SAC; Qualidade regular nas fotos mesmo alternando modos de cena; Tem pouco zoom; Tem poucas funcionalidades; Péssima qualidade de vídeo; Não vem com cartão de memória.</Review>
+		<Explicit>Maquina, Produto, Funcionalidade, Pilha, Foto, Qualidade do video,  Flash, Cartao de memoria, Zoom, Leve, Garantia, Capinha</Explicit>
+		<Implicit>Pequena</Implicit>
+	</record>
+	<record>
+		<Domain>Camera</Domain>
+		<Review>fui enganada!comprei a minha na polichopp mas a bateria veio com defeito e eles não tem garantia pra ela.esta inultilizada. O que gostei: vem com todos os acessórios.O que não gostei: mas não acho a bateria pra comprar.se não tiver uma luz boa não fica boa as fotos</Review>
+		<Explicit>Acessorio, Bateria, Foto, Garantia </Explicit>
+		<Implicit> Se não tiver luz boa</Implicit>
+	</record>
+	<record>
+		<Domain>Camera</Domain>
+		<Review>Péssima relação custo-benefício. Possui preço baixo mas com qualidade bastante inferior. Em nenhuma hipótese condiz com a fama da NIKON. O que gostei: Compacta, fácil de usar, preço acessível. O que não gostei: Péssima nitidez. As fotos ficam embaçadas, com aspecto de baixa resolução. Quando o objeto da foto está em movimento ou em ambiente com pouca luminosidade as fotos ficam horríveis, bastante borradas</Review>
+		<Explicit>Qualidade da maquina, Preco, Custo-beneficio, Foto, Nitidez</Explicit>
+		<Implicit> Facil de usar, Compacta</Implicit>
+	</record>
+	<record>
+		<Domain>Camera</Domain>
+		<Review>medio as funçoes sao muito ruim. O que gostei: bom muinto rui."A aparência de um produto é algo que faz toda a diferença para mim. Esse foi o principal motivo da minha decepção. Além disso, deveria vir uma película de proteção sobre as partes mais sensíveis para evitar m de usar. O que não gostei: e bom ruim para usar</Review>
+		<Explicit> Funcao, Aparencia, Pelicula de protecao</Explicit>
+		<Implicit>s/n</Implicit>
+	</record>
+	<record>
+		<Domain>Camera</Domain>
+		<Review>Acredito que é um excelente produto e que vale muito o custo benefício para quem quer começar a se aventurar com fotografias. O que gostei: Já fotografei com está Câmera. Fácil de utilizar, auto explicativa, ótima resolução e o fácil acesso à utilização das funções. O que não gostei: --</Review>
+		<Explicit>Produto, Camera, Custo- beneficio, Funcao, Facil de utilizar, Resolucao, Fotografia              </Explicit>
+		<Implicit>Auto explicativa</Implicit>
+	</record>
+	<record>
+		<Domain>Camera</Domain>
+		<Review>Ao chegar no Uruguai, percebi que havia esquecido a minha velha Canon PowerShot A75 (que mesmo com quase 10 anos, dá pau em qualquer câmerazinha de hoje), então comprei esta câmera no Free Shop, por pura necessidade. Escolhi esta câmera pois era a mais barata da loja. Ela quebrou o galho durante a viagem, mas deixou muito a desejar, principalmente em ambientes sem muita luminosidade, mas em ambientes bem iluminados a qualidade pode ser satisfatória. Não leve os megapixels da câmera como referência, pois isso diz praticamente nada sobre a qualidade da imagem de uma câmera. Esses megapixels representam simplesmente a capacidade de ampliação de uma imagem tirada pela câmera, não confundam com a qualidade da imagem. A minha velha Canon tem 3.2 megapixels, enquanto essa Nikon tem 12, mas a qualidade das fotos da Canon são MUITO melhores. RECOMENDO VEEMENTEMENTE QUE GASTE MAIS COM UMA CÂMERA DE QUALIDADE, GARANTO QUE NÃO SE ARREPENDERÁ.O que gostei: Bateria recarregável;Bateria dura muito; Câmera muito compacta. O que não gostei: Ausência de visor ocular; Fotografias tremidas (muito ruins) em ambientes sem muita iluminação, mas de qualidade relativamente boa em ambientes bem iluminados; Foco deixa a desejar.</Review>
+		<Explicit>Camera, Camerazinha, Qualidade da imagem, Bateria, Fotografia, Visor ocular, Foco </Explicit>
+		<Implicit>Barato, Megapixels, Compacta</Implicit>
+	</record>
+	<record>
+		<Domain>Camera</Domain>
+		<Review>Câmera boa para quem não é profissional, mas que aprecia a possibilidade de registrar grandes momentos ou trabalho, como meu caso. O que gostei: Boa relação custo-benefício. O que não gostei: O peso e o volume podem ser desvantagens para quem não gosta de carregar muita coisa</Review>
+		<Explicit>Camera, Custo-beneficio, Peso     </Explicit>
+		<Implicit>Volumoso</Implicit>
+	</record>
+	<record>
+		<Domain>Camera</Domain>
+		<Review>Fiquei com ele e próximo dos 10 meses de uso ele apresentou problemas no flash, mandei para garantia e depois voltou com pani geral inclusive problema na lente, resumindo, o produto retornou praticamente no final da garantia, e ao devolver recebi um orçamento de praticamente o valor do produto, pois todas as peças são da China. Vergonha!</Review>
+		<Explicit>Produto, Flash, Garantia, Lente, Peca</Explicit>
+		<Implicit>s/n</Implicit>
+	</record>
+	<record>
+		<Domain>Camera</Domain>
+		<Review>Recomendo pelo baixo custo e alta qualidade.O que gostei: Câmera Semi profissiional excelente e de baixo custo! O que não gostei: Baixa resolução</Review>
+		<Explicit>Resolucao, Camera, Custo</Explicit>
+		<Implicit>s/n</Implicit>
+	</record>
+	<record>
+		<Domain>Camera</Domain>
+		<Review>muito bom mais a bateria, precisa melhora. O que gostei: imagem muito boa. O que não gostei: bateria dura pouco</Review>
+		<Explicit>Imagem, Bateria</Explicit>
+		<Implicit>s/n</Implicit>
+	</record>
+	<record>
+		<Domain>Camera</Domain>
+		<Review>A Canon Rebel T3i é uma câmera ótima, tanto para iniciante, quanto para profissionais do ramo, por sua qualidade de imagem e preço mais acessíveis do que suas seguintes (60D, 7D, 5D). O que gostei: * Mesmo sendo uma câmera profissional de "Nível Iniciante" possui grande qualidade de imagem e vídeo, oque proporciona liberdade da criatividade.O que não gostei: * Curta duração de bateria. * Dificuldade para fotos noturnas sem flash.</Review>
+		<Explicit>Camera, Preco, Qualidade da imagem, Bateria, Foto noturna, Video, Flash</Explicit>
+		<Implicit>s/n</Implicit>
+	</record>
+	<record>
+		<Domain>Camera</Domain>
+		<Review>Tem uma resolução maravilhosa, mas eu queria uma maquina que ao clicar ela tirasse a foto de forma instantanea e isso não acontece. O que gostei: - Boa qualidade das imagens em locais bem iluminados;
+- Visor frontal de 1,5 polegada;- Dá para inserir filtros nas imagens, deixando as imagens mais divertidas. O que não gostei: pouca memória interna, não bate rápido fotos seguidas, demora a responder quando clicada</Review>
+		<Explicit>Maquina, Qualidade da imagem, Filtro de imagem, Resolucao,  Visor, Memoria interna</Explicit>
+		<Implicit>Demora para responder</Implicit>
+	</record>
+	<record>
+		<Domain>Camera</Domain>
+		<Review>Apesar de ter constatado que algumas opções da Sony parecem ser em aspectos gerais bem mais superiores, essa câmera (WB2000) tem algo especial no seu todo que a faz parecer ser melhor do que efetivamente ela é. Até teria outra opção, principalmente da Sony que é top, mas sem me desfazer dessa Samsung. No geral dou NOTA 9 e recomendo. O que gostei: Design elegante, qualidade de imagem e tamanho da tela (amoled), recurso de gravação de vídeo e gravação em full HD, vem com cartão de 2GB da Samsung, qualidade da imagem e das cores, qualidade da lente, opção de gravação de vídeos em baixas rotações (slow motion), mostrador do nível de bateria e memória. O que não gostei: Só fica em Widscreen com resolução até 7MP, resolução de somente até 10MP (poderia ser um pouco maior), Zoom de somente 5x (poderia ser bem maior), um quase imperceptível ruído constante acredito que de processamento da imagem enquanto o óptico está acionado, vídeo em slow motion tem resolução de qualidade reduzidíssima.</Review>
+		<Explicit>Camera, Opcao, Qualidade da imagem, Cor da imagem, Design,  Resolucao, Gravacao de video, Gravacao full hd, Tamanho da tela, Cartao, Zoom, Qualidade da lente, Slow Motion, Mostrador do nível</Explicit>
+		<Implicit>Sony</Implicit>
+	</record>
+	<record>
+		<Domain>Camera</Domain>
+		<Review>camera de excelente qualidade e recursos bastante uteis. O que gostei: camera de excelente qualidade e recursos bastante uteis. O que não gostei: dificuldade no manuseio e assistencia tecnica</Review>
+		<Explicit>Qualidade da camera, Recurso, Manuseio                       </Explicit>
+		<Implicit>s/n</Implicit>
+	</record>
+	<record>
+		<Domain>Camera</Domain>
+		<Review>Fiquei fascinado com os recursos, mas no quesito cores a Sony que ainda possuo dá um "baile". O que gostei: Vários recursos, boa velocidade na captura de fotos, intuitiva, imagens nítidas nas filmagens Full HD apesar de ser 30fps. O que não gostei: A cor das fotos fica "desbotada", no visor LCD a imagem é nitida com cores fortes e reais, porém ao ver numa TV via HDMI ou lendo o cartão SD em dois computadores  iferentes a cor está fraca e fora da realidade.</Review>
+		<Explicit>Recurso,  Cores da imagem,  Cor da foto, Filmagem, Visor, Cartao SD, Velocidade  </Explicit>
+		<Implicit>Intuitiva</Implicit>
+	</record>
+	<record>
+		<Domain>Camera</Domain>
+		<Review>Ótimo custo\benefício para quem quer gravar momentos interessantes como viagens e festas, sem gastar uma fortuna. O que gostei: Compacta, boa resolução. O que não gostei: Acionamento de funções</Review>
+		<Explicit>Custo\benefício, Funcao, Resolucao              </Explicit>
+		<Implicit>Compacta</Implicit>
+	</record>
+	<record>
+		<Domain>Camera</Domain>
+		<Review>Até o momento nenhuma falha grave aconteceu. O produto tem atendido as expectativas. O que gostei: câmera compacta com boa qualidade de imagem. O que não gostei: bateria poderia durar um pouco mais.</Review>
+		<Explicit>Camera, Produto, Qualidade da imagem, Bateria</Explicit>
+		<Implicit>Compacta</Implicit>
+	</record>
+	<record>
+		<Domain>Camera</Domain>
+		<Review>Comprei o produto por acaso. Mas fiquei satisfeito com sua funcionalidade. O que gostei: O produto atende as minhas necessidades. O que não gostei: Não é incluída uma bateria reserva.</Review>
+		<Explicit>Produto, Funcionalidade, Bateria reserva                </Explicit>
+		<Implicit>s/n</Implicit>
+	</record>
+	<record>
+		<Domain>Camera</Domain>
+		<Review>Excelente para quem é fã de fotografia com qualidade, seja pra casa ou projetos pessoais. Tem uma objetiva muito boa e um zoom de dar inveja às compactas. O que gostei: Zoom, possibilidade de customiza-la. O que não gostei: Preço</Review>
+		<Explicit>Preco, Fotografia, Zoom, Objetiva</Explicit>
+		<Implicit>s/n</Implicit>
+	</record>
+	<record>
+		<Domain>Camera</Domain>
+		<Review>ótimo custo beneficio, para ser perfeito só precisava vir com mais memória e o preço ser menor. O que gostei: Exelente Zoom, ótima qualidade de imagem, facilidade para navegação nas fotos já tiradas. O que não gostei: pouca memória.</Review>
+		<Explicit>Custo, Preco, Qualidade de imagem, Navegacao na foto, memoria,  zoom           </Explicit>
+		<Implicit>s/n</Implicit>
+	</record>
+	<record>
+		<Domain>Camera</Domain>
+		<Review>É uma câmera muito boa. Com muitos recursos e ótima qualidade das fotos. Eu estou muito satisfeito com ela. O que gostei: As fotos ficam com ótima qualidade, é fácil de manusear e tem um ótimo zoom. O que não gostei: É um pouco grande, mas isso não chega a ser um problema, e a qualidade das fotos compensa. </Review>
+		<Explicit>Camera, Recurso, Qualidade da foto, Zoom</Explicit>
+		<Implicit>Facil de manusear, Grande     </Implicit>
+	</record>
+	<record>
+		<Domain>Camera</Domain>
+		<Review>Excelente, ate hoje todo mundo se impressiona com o tamanho e a beleza dela, alem de fotos perfeitas que podem ser tiradas até 6.3 megapixels! O que gostei: Fina, pratica e leve. O que não gostei: Nenhum!</Review>
+		<Explicit>Pratica, Megapixel, Foto, Tamanho</Explicit>
+		<Implicit>  Beleza, Fina, Leve</Implicit>
+	</record>
+	<record>
+		<Domain>Camera</Domain>
+		<Review>Um imagem vale mais que mil palavras. Quem tem dúvida sobre a qualidade das fotos desta câmera acesse o link: http://www.flickr.com/cameras/pentax/optio_e10/ Obs: É preciso ler atentamente o manual de instruções. Qualquer regulagem indevida ao ambiente ocasionará fotos com deficiência. O modo Macro também, é de ótima qualidade proporcionando fotos incríveis de flores, insetos e pequenos objetos! O que gostei: Exelente qualidade de imagens, bons recursos de configuração e ótimo visor LCD. O que não gostei: Pouca memória interna e qualidade dos videos.</Review>
+		<Explicit>Camera, Recurso, Configuracao, Qualidade  de imagem, Qualidade da foto, Qualidade de vídeo, Manual de instrucao, Memoria interna  </Explicit>
+		<Implicit>s/n</Implicit>
+	</record>
+	<record>
+		<Domain>Camera</Domain>
+		<Review>É uma excelente máquina para quem não quer uma resolução profissional, 5.0 Megapixels é ótimo para usuários domésticos. Uma máquina compacta de fácil manuseio. Excelente custo- benefício. Muito boa! O que gostei: Uma máquina compacta de fácil manuseio com redutor de olhos vermelhos e outras funções de fácil acesso. Menu em Português. O que não gostei: Nada</Review>
+		<Explicit>Maquina, Custo-beneficio, Manuseio, Menu, Resoluca, Redutor de olhos vermelhos</Explicit>
+		<Implicit>  Compacta        </Implicit>
+	</record>
+	<record>
+		<Domain>Camera</Domain>
+		<Review>Quem não tem uma câmera digital olympus (que é sem duvida a camera mais vendida no brasil pela sua qualidade e facilidade na sua operação)não tem história... já pensou no que você velhinho(a) sentado com seu neto(a) mostrando seu album digital de fotos? então que você tá esperando? ....; O que gostei: é muito fácil de operar...e a resolução é uma das melhores existentes no mercado mundial. O que não gostei: Nenhum.</Review>
+		<Explicit>Camera digital, Facil de operar, Facilidade, Resolucao              </Explicit>
+		<Implicit>s/n</Implicit>
+	</record>
+	<record>
+		<Domain>Camera</Domain>
+		<Review>Muito bom produto em seu aspecto de leveza e qualidade além de ter a marca OLYMPUS, que indica um baixo custo e uma ótima qualidade. O que gostei: Produto de ótima qualidade com seu zoom ótico de 3x,aproxima a imagem sem perder a qualidade,tem também o visor de 2,5" que não faz perder nenhum detalhe da foto. O que não gostei: Memória interna de apenas 10 Megas,não vem com cartão XD,o som poderia ter uma qualidade melhor.</Review>
+		<Explicit>Produto, Custo, Marca, Visor, Memoria interna, Zoom, Som</Explicit>
+		<Implicit>Leveza</Implicit>
+	</record>
+	<record>
+		<Domain>Camera</Domain>
+		<Review>Há muitos momentos marcantes em nossa vida, mas muitos deixam de ser marcantes e ficam esquecidos. Momentos que poderiam ser lembrados em forma de foto caem no esquecimento. Uma forma de armazenamento como esse não pode ser deixado para trás. O que gostei: - Altíssima qualidade. - Fácil de usar. - Compacta. O que não gostei: - Alto preço.</Review>
+		<Explicit>Preco</Explicit>
+		<Implicit>Facil de usar, Compacta</Implicit>
+	</record>
+	<record>
+		<Domain>Camera</Domain>
+		<Review>Otima para quem esta começando no mundo da fotografia, pois ela é de facil manuseio. A bateria pode não durar muito, mas tambem com tantos recursos...Ainda não senti falta dos recursos que ela não tem. O que gostei: Qualidade de imagens, Recursos, Preço, Ela praticamente faz tudo sozinha. O que não gostei: Bateria não dura, é necessario ter bateria extra se pretende cobrir um event. </Review>
+		<Explicit>Preco, Recurso, Qualidade de imagem, Bateria, Fotografia           </Explicit>
+		<Implicit>Facil manuseio</Implicit>
+	</record>
+	<record>
+		<Domain>Camera</Domain>
+		<Review>estou adorando a minha camera, pois as imagens tem uma ótima nitidez. O que gostei: era algo que realmente estava precisando... linda,versátil e de fácil uso. O que não gostei: não tenho nada contra</Review>
+		<Explicit>Camera, Imagem, Nitidez </Explicit>
+		<Implicit>Facil uso, Linda, Versátil                   </Implicit>
+	</record>
+	<record>
+		<Domain>Camera</Domain>
+		<Review>A Sony H9 é a melhor opção de fotografia a baixo custo, ótima para fotografar natureza, no meu caso pássaros. Uma amadora que parece profissional. O melhor zoom do mercado. Com ela vão olhar para você e dizer "rapaz esta máquina bate cada foto!!!" Como se ela batesse as fotos sozinhas e não precisasse de você está lá.... Esta é com certeza a senssação de todos que possuem uma sony H9. O que gostei: A melhor opção de fotografia a baixo custo, ótima para fotografar natureza, no meu caso pássaros. O melhor zoom do mercado. O que não gostei: Pelo fato de ser lançamento ainda possui poucas opções de lentes auxiliares.</Review>
+		<Explicit>Custo, Sony, Fotografia, Zoom, Lente  auxiliar</Explicit>
+		<Implicit>s/n</Implicit>
+	</record>
+	<record>
+		<Domain>Camera</Domain>
+		<Review>Produto perfeito com ultrazoom e ótima qualidade de imagem. O que gostei: Rápida, com jeitão de máquina profissional, diversos presets, dá zoom enquanto filma, possui nightshot, super zoom óptico, ótima qualidade de imagem, ótimo tempo de resposta do shutter e display grande que consegue ser usado mesmo na luz natural. O que não gostei: Muitos botões muito próximos, fácil acioná-los sem querer. Só usa acessórios proprietários (originais Sony)</Review>
+		<Explicit>Produto, Qualidade de imagem,  Acessorio, Nigth Shot, Display, Ultrazoom, Presets</Explicit>
+		<Implicit>Rapida</Implicit>
+	</record>
+	<record>
+		<Domain>Camera</Domain>
+		<Review>Muito boa e um otimo custo beneficio alem de usar cartoes de mamoria do tipo sd card q sao mais baratos e muito compacta e elegante...O que gostei: 7 megapixels, zoom otico 3x + 8x digital total 24x cartao tipo SD card, mais barato q os outros, Muito compacta e muito bonita, Visor 2,5 polegadas. O que não gostei: Nada ate o momento..</Review>
+		<Explicit>Custo-beneficio, Megapixel, Visor, Cartao de memoria, Sd Card</Explicit>
+		<Implicit>Bonita, Elegante, Compacta  </Implicit>
+	</record>
+	<record>
+		<Domain>Camera</Domain>
+		<Review>Por enquanto está tudo bem, as fotos são boas e vem com o cartão de memória. A câmera é de uso doméstico, tem menu com várias opçoes de foto como fotos na água, paisagens, smile schutter, fotos com animais e noturnas. O que gostei: Facilidade em mexer e tirar as fotos, com a prática é facil de tirar as fotos. O que não gostei: Até agora nada.</Review>
+		<Explicit>Camera,  Menu, Foto, Cartao de memoria</Explicit>
+		<Implicit>Facilidade de mexer</Implicit>
+	</record>
+	<record>
+		<Domain>Camera</Domain>
+		<Review>Facilidade no uso, com certeza a melhor máquina digital da categoria. Comparada com outras ela sai na frente por todos os recursos disponíveis e fáceis de acessar. Além da ótima resolução. O que gostei: Disparo ultra-rápido, tem sequencia de 3 disparos em 1 segundo. Várias funções para cada tipo desejado de foto. O que não gostei: Diante de muita luz de fundo, ela reflete um pouco o foco principal. Porém, é possível corrigir no computador.</Review>
+		<Explicit>Maquina digital, Recurso, Resolucao, Disparo</Explicit>
+		<Implicit>Facilidade no uso</Implicit>
+	</record>
+	<record>
+		<Domain>Camera</Domain>
+		<Review>Estou impressionado com a camera. Eu ja tinha uma DSC-W5 e preferi trocar por causa do tamanho. Nao se deixe levar pelas dimensoes. Ela é maravilhosa. Tem uma qualidade de imagem, cores e brilho impressionantes. Nao se perde nenhum detalhe. E com seu tamanho reduzido pode ser levada a qualquer lugar com comodidade. Vc está pronto para tirar uma foto a qualquer momento. Sem falar na duração da bateria. Bem mais duradura que as pilhas da DSC-W5. Resumindo: Uma otima compra de um excelente produto. Sem remorsos. O que gostei: - Excelente qualidade de imagem.  Visor muito bom (2 polegadas). Tamanho compacto,  Duração da Bateria,  Design interessante para colocar no bolso da calça. O que não gostei: - É preciso tirar foto com as 2 maos para a mesma nao sair "tremida" devido ao tamanho reduzido da camera.  A bateria é recarregada na propria camera, como um celular. Capacidade do Memory Stick que acompanha a camera é pequena (32Mb)</Review>
+		<Explicit>Camera, Produto, Qualidade de imagem, Cor da imagem, Design, Bateria, Tamanho, Visor, Capacidade de memoria      </Explicit>
+		<Implicit>s/n</Implicit>
+	</record>
+	<record>
+		<Domain>Camera</Domain>
+		<Review>É uma máquina excelente, compacta mas com muitos recursos, tem muito a oferecer para quem gosta de fotografia, com a praticidade do armazenamento digital das imagens. Tem menu em português. A tecnologia empregada no produto proporciona excelentes imagens que podem ser conferidas no amplo visor de 2,5 polegadas aliado com o recurso de zoom reproduz fielmente o resultado final. A mesma qualidade que se vê na tela pode ser conferida nas fotos reveladas em papel. Vale a pena o investimento, que nem é tão alto assim. Recomendo o produto, estou muito satisfeito. O que gostei: Fácil manuseio, versátil, muitos e bons recursos de edição. Processador rápido e eficiente produz ótimas fotos. A lente (básica!!) tem um ótimo foco automático com resposta muito rápida, possibilita fotos de movimento e instantâneos inimagináveis em câmeras digitais comuns. O flash é notável. O que não gostei: O imposto de importação.</Review>
+		<Explicit>Maquina, Produto, Investimento, Recurso, Praticidade, Menu, Imagem, Fotografia, Flash, Visor, Tela, Armazenamento, Zoom, Foco, Reducao de olhos vermelhos, Recurso de edicao, Processador</Explicit>
+		<Implicit>Facil menuseio, Versatil, Compacta</Implicit>
+	</record>
+	<record>
+		<Domain>Camera</Domain>
+		<Review>Com a H10 você terá as vantagens de uma câmera amadora avançada, como zoom óptico melhor e de maior alcance, podendo inclusive acoplar outras lentes ao modelo e ao mesmo tempo ter em mãos uma câmera de medidas pequenas. O que gostei: Tem 8 Megapixels, O Zoom Digital é de 20X, Possui o Zoom óptico de 10X, Suporta memória acima de 16GB. Ele grava vídeo. Tem redução de olhos vermelhos. O que não gostei: Pelo preço poderia ter mais recursos, com por exemplo o reconhecimento facial.</Review>
+		<Explicit>Camera, Preco, Recurso, Video, Memoria, Zoom, Lente, Reconhecimento facial</Explicit>
+		<Implicit>Medidas</Implicit>
+	</record>
+	<record>
+		<Domain>Camera</Domain>
+		<Review>Câmera excelente, faz boa fotografias com essa resolução e zoom, idela para uso semi-profissional. O que gostei: Zoom potente, resolução boa O que não gostei: Não encontrei!</Review>
+		<Explicit>Camera, Resolucao, Fotografia, Zoom                 </Explicit>
+		<Implicit>s/n</Implicit>
+	</record>
+	<record>
+		<Domain>Livro</Domain>
+	</record>
+	<record>
+		<Domain>Livro</Domain>
+	</record>
+	<record>
+		<Domain>Livro</Domain>
+	</record>
+	<record>
+		<Domain>Livro</Domain>
+	</record>
+	<record>
+		<Domain>Livro</Domain>
+	</record>
+	<record>
+		<Domain>Livro</Domain>
+	</record>
+	<record>
+		<Domain>Livro</Domain>
+	</record>
+	<record>
+		<Domain>Livro</Domain>
+	</record>
+	<record>
+		<Domain>Livro</Domain>
+	</record>
+	<record>
+		<Domain>Livro</Domain>
+	</record>
+	<record>
+		<Domain>Livro</Domain>
+	</record>
+	<record>
+		<Domain>Livro</Domain>
+	</record>
+	<record>
+		<Domain>Livro</Domain>
+	</record>
+	<record>
+		<Domain>Livro</Domain>
+	</record>
+	<record>
+		<Domain>Livro</Domain>
+	</record>
+	<record>
+		<Domain>Livro</Domain>
+	</record>
+	<record>
+		<Domain>Livro</Domain>
+	</record>
+	<record>
+		<Domain>Livro</Domain>
+	</record>
+	<record>
+		<Domain>Livro</Domain>
+	</record>
+	<record>
+		<Domain>Livro</Domain>
+	</record>
+	<record>
+		<Domain>Livro</Domain>
+	</record>
+	<record>
+		<Domain>Livro</Domain>
+	</record>
+	<record>
+		<Domain>Livro</Domain>
+	</record>
+	<record>
+		<Domain>Livro</Domain>
+	</record>
+	<record>
+		<Domain>Livro</Domain>
+	</record>
+	<record>
+		<Domain>Livro</Domain>
+	</record>
+	<record>
+		<Domain>Livro</Domain>
+	</record>
+	<record>
+		<Domain>Livro</Domain>
+	</record>
+	<record>
+		<Domain>Livro</Domain>
+	</record>
+	<record>
+		<Domain>Livro</Domain>
+	</record>
+	<record>
+		<Domain>Livro</Domain>
+	</record>
+	<record>
+		<Domain>Livro</Domain>
+	</record>
+	<record>
+		<Domain>Livro</Domain>
+	</record>
+	<record>
+		<Domain>Livro</Domain>
+	</record>
+	<record>
+		<Domain>Livro</Domain>
+	</record>
+	<record>
+		<Domain>Livro</Domain>
+	</record>
+	<record>
+		<Domain>Livro</Domain>
+	</record>
+	<record>
+		<Domain>Livro</Domain>
+	</record>
+	<record>
+		<Domain>Livro</Domain>
+	</record>
+	<record>
+		<Domain>Livro</Domain>
+	</record>
+	<record>
+		<Domain>Livro</Domain>
+	</record>
+	<record>
+		<Domain>Livro</Domain>
+	</record>
+	<record>
+		<Domain>Livro</Domain>
+	</record>
+	<record>
+		<Domain>Livro</Domain>
+	</record>
+	<record>
+		<Domain>Livro</Domain>
+	</record>
+	<record>
+		<Domain>Livro</Domain>
+	</record>
+	<record>
+		<Domain>Livro</Domain>
+	</record>
+	<record>
+		<Domain>Livro</Domain>
+	</record>
+	<record>
+		<Domain>Livro</Domain>
+	</record>
+	<record>
+		<Domain>Livro</Domain>
+	</record>
+	<record>
+		<Domain>Livro</Domain>
+	</record>
+	<record>
+		<Domain>Livro</Domain>
+	</record>
+	<record>
+		<Domain>Livro</Domain>
+	</record>
+	<record>
+		<Domain>Livro</Domain>
+	</record>
+	<record>
+		<Domain>Livro</Domain>
+	</record>
+	<record>
+		<Domain>Livro</Domain>
+	</record>
+	<record>
+		<Domain>Livro</Domain>
+	</record>
+	<record>
+		<Domain>Livro</Domain>
+	</record>
+	<record>
+		<Domain>Livro</Domain>
+	</record>
+	<record>
+		<Domain>Livro</Domain>
+	</record>
+</data-set>
