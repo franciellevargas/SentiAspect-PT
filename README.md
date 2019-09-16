@@ -21,5 +21,14 @@ The techincal report about this project is available here: http://conteudo.icmc.
 
 CITING
 
+@inproceedings{Vargas&Pardo2017,
+ author = {Vargas, F. A. and Pardo, T. A. S.},
+ title = {Clustering and hierarchical organization of opinion aspects: a corpus study},
+ booktitle = {Proceedings of the 14th Meeting of Linguistics of Corpus and 9th Brazilian School of Computational Linguistics},
+ year = {2017},
+ location = {São Leopoldo, Brazil},
+ pages = {342--351},
+ address = {São Leopoldo, Brazil},
+}
 
 
