@@ -12,14 +12,14 @@ For example, in the review passage “she considered the camera price very expen
 
 ANNOTATION METHODOLOGY
 
+![Screenshot from 2019-09-16 12-10-13](https://user-images.githubusercontent.com/19657817/64970781-d7d33c00-d87c-11e9-9eba-50924b62c754.png)
+
 The annotation processing is available here: http://conteudo.icmc.usp.br/pessoas/taspardo/
 
 The techincal report about this project is available here: http://conteudo.icmc.usp.br/pessoas/taspardo/
 
-EXAMPLE
-
-
 
 CITING
+
 
 
