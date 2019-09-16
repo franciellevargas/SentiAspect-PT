@@ -8,9 +8,12 @@ The corpus consist of implicit and explicit annotated aspects for opinion mining
 
 WHAT IS IT?
 
+
 For example, in the review passage “she considered the camera price very expensive”, the consumer employed the term “price” to evaluate an aspect of the camera; however, consumers might also use the terms “cost”, “value”, “investiment”, etc. In addition, consumers may use implicit or explicit aspects to refer to the same aspect, e.g., the sentences “she got calls at the São Francisco river” and “working anywhere” have been employed in actual reviews to evaluate the (implicit) “signal” aspect of a smartphone. It is also interesting to notice that, in some domains, proper names may be employed to refer to the aspects. For instance, the proper names “Sony” and “Nikon” may be used to evaluate the “product brand” aspect of digital cameras.
 
+
 ANNOTATION METHODOLOGY
+
 
 ![Screenshot from 2019-09-16 12-10-13](https://user-images.githubusercontent.com/19657817/64970781-d7d33c00-d87c-11e9-9eba-50924b62c754.png)
 
@@ -20,6 +23,7 @@ The techincal report about this project is available here: http://conteudo.icmc.
 
 
 CITING
+
 
 @inproceedings{Vargas&Pardo2017,
  author = {Vargas, F. A. and Pardo, T. A. S.},
