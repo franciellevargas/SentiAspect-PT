@@ -3,7 +3,7 @@
 
 ![SSC-logo-300x171](https://user-images.githubusercontent.com/19657817/63529693-77e6b100-c4db-11e9-9385-7d9b109427a2.png) ![Screenshot from 2019-08-22 12-36-57](https://user-images.githubusercontent.com/19657817/63529275-ccd5f780-c4da-11e9-9d2c-dce592d855e7.png) 
 
-The corpus consist of implicit and explicit annotated aspects and  groups of (hierarchically organized) opinion aspects for sentiment analysis and summarization applications.
+The corpus consist of implicit and explicit annotated aspects and  groups of (hierarchically organized) opinion aspects for sentiment analysis applications as well as summarization.
 
 
 WHAT IS IT?
