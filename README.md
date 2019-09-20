@@ -17,9 +17,9 @@ For the 180 reviews, a human labeled the implicit and explicit aspects. In the i
 
 ![Screenshot from 2019-09-16 12-10-13](https://user-images.githubusercontent.com/19657817/64970781-d7d33c00-d87c-11e9-9eba-50924b62c754.png)
 
-The full annotation processing is available here: http://conteudo.icmc.usp.br/pessoas/taspardo/
+The full annotation processing is available here: http://conteudo.icmc.usp.br/pessoas/taspardo/ELC2017-VargasPardo.pdf
 
-The techincal report about this project is available here: http://conteudo.icmc.usp.br/pessoas/taspardo/
+The techincal report about this project is available here: http://repositorio.icmc.usp.br/handle/RIICMC/6568
 
 
 CITING 
@@ -32,7 +32,7 @@ BIBTEX
 @inproceedings{Vargas&Pardo2017,
  author = {Vargas, F. A. and Pardo, T. A. S.},
  title = {Clustering and hierarchical organization of opinion aspects: a corpus study},
- booktitle = {Proceedings of the 14th Meeting of Linguistics of Corpus and 9th Brazilian School of Computational Linguistics},
+ booktitle = {Proceedings of the 14th Meeting of Corpus Linguistics and 9th Brazilian School of Computational Linguistics},
  year = {2017},
  location = {São Leopoldo, Brazil},
  pages = {342--351},
