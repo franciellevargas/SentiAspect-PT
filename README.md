@@ -19,7 +19,7 @@ For the 180 reviews, a human labeled the implicit and explicit aspects. In the i
 
 The full annotation processing is available here: http://conteudo.icmc.usp.br/pessoas/taspardo/ELC2017-VargasPardo.pdf
 
-The techincal report about this project is available here: http://repositorio.icmc.usp.br/handle/RIICMC/6568
+The technical report on the project is available here: http://repositorio.icmc.usp.br/handle/RIICMC/6568
 
 
 CITING 
