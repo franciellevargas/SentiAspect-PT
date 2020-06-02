@@ -1,4 +1,4 @@
-# Explicit-and-Implicit-Aspects-For-Sentiment Analysis in Portuguese.
+# Explicit-and-Implicit-Aspects-For-Fine-Grained-Sentiment Analysis in Portuguese Language.
 
 
 ![SSC-logo-300x171](https://user-images.githubusercontent.com/19657817/63529693-77e6b100-c4db-11e9-9385-7d9b109427a2.png) ![Screenshot from 2019-08-22 12-36-57](https://user-images.githubusercontent.com/19657817/63529275-ccd5f780-c4da-11e9-9d2c-dce592d855e7.png) 
