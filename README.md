@@ -7,12 +7,12 @@ The AspectPRO corpus consist of implicit and explicit annotated aspects and  gro
 
 <h3 align="left"> What is it? </h3>
 
-Natural languages are very rich and allow to express subjectivity in different ways. Consumers, for example, may use implicit or explicit aspects to refer to the same product property. e.g., the sentences “she got calls at the São Francisco river” and “working anywhere” have been employed in actual reviews to evaluate the (implicit) “signal” aspect of a smartphone. Therefore, not every opinion is directly expressed and not every aspect appears in a explicit way in the text. For example, in The camera is expensive, the evaluated aspect is “price”, but it is implicit, not being explicitly said in the sentence and, therefore, must be inferred from the context. 
+<p align="justify"> Natural languages are very rich and allow to express subjectivity in different ways. Consumers, for example, may use implicit or explicit aspects to refer to the same product property. e.g., the sentences “she got calls at the São Francisco river” and “working anywhere” have been employed in actual reviews to evaluate the (implicit) “signal” aspect of a smartphone. Therefore, not every opinion is directly expressed and not every aspect appears in a explicit way in the text. For example, in The camera is expensive, the evaluated aspect is “price”, but it is implicit, not being explicitly said in the sentence and, therefore, must be inferred from the context.</p> 
 
 
 <h3 align="left"> Annotation Process</h3>
 
-For the 180 reviews, a human labeled the implicit and explicit aspects. In the identification of implicit aspects were labeled the clue terms that indicated the aspects. For example, in This camera is expensive, the evaluated aspect is “price”, but it is implicit. The term “expensive” is the clue term. The identification of explicit aspects were directly labeled the aspects. For example, in The history of the book is bad, “history” is an explicit aspect. In the last stage, the aspects were clustered the that had similar meaning but with different wording, in order to identify groups. For example, the “cost”, “value”, “price” and “investment” aspects form an unique group. 
+<p align="justify"> For the 180 reviews, a human labeled the implicit and explicit aspects. In the identification of implicit aspects were labeled the clue terms that indicated the aspects. For example, in This camera is expensive, the evaluated aspect is “price”, but it is implicit. The term “expensive” is the clue term. The identification of explicit aspects were directly labeled the aspects. For example, in The history of the book is bad, “history” is an explicit aspect. In the last stage, the aspects were clustered the that had similar meaning but with different wording, in order to identify groups. For example, the “cost”, “value”, “price” and “investment” aspects form an unique group.</p> 
 
 ![Screenshot from 2019-09-16 12-10-13](https://user-images.githubusercontent.com/19657817/64970781-d7d33c00-d87c-11e9-9eba-50924b62c754.png)
 
@@ -21,7 +21,7 @@ The technical report on the project is available here: http://repositorio.icmc.u
 
 <h3 align="left"> Citing </h3>
 
-Vargas, F.A. and Pardo, T.A.S. (2017). "Clustering and hierarchical organization of opinion aspects: a corpus study". XIV Encontro de Linguística de Corpus (ELC), pp. 1-10. August 17-18. São Leopoldo-RS/Brazil. 
+<p align="justify"> Vargas, F.A. and Pardo, T.A.S. (2017). "Clustering and hierarchical organization of opinion aspects: a corpus study". XIV Encontro de Linguística de Corpus (ELC), pp. 1-10. August 17-18. São Leopoldo-RS/Brazil</p>. 
 
 
  <b>BIBTEX</b>
