@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/19657817/183249858-78a2b346-d7c4-4e10-9f65-3ee27c033dda.png) ![image](https://user-images.githubusercontent.com/19657817/183249867-a58bdeab-1b79-4ebc-9245-80d08ab92fff.png)
+![image](https://user-images.githubusercontent.com/19657817/183249858-78a2b346-d7c4-4e10-9f65-3ee27c033dda.png) 
 <h2 align="center"> Aspect-based annotated corpus of web consumer reviews in Portuguese </h2>  
 
 
