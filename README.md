@@ -1,4 +1,4 @@
-![SSC-logo-300x171](https://user-images.githubusercontent.com/19657817/63529693-77e6b100-c4db-11e9-9385-7d9b109427a2.png) ![Screenshot from 2019-08-22 12-36-57](https://user-images.githubusercontent.com/19657817/63529275-ccd5f780-c4da-11e9-9d2c-dce592d855e7.png) 
+![image](https://user-images.githubusercontent.com/19657817/183249802-1d0c0493-732c-4e6e-b90b-00d8eb99f0f4.png) ![SSC-logo-300x171](https://user-images.githubusercontent.com/19657817/63529693-77e6b100-c4db-11e9-9385-7d9b109427a2.png) ![Screenshot from 2019-08-22 12-36-57](https://user-images.githubusercontent.com/19657817/63529275-ccd5f780-c4da-11e9-9d2c-dce592d855e7.png) 
 
 <h2 align="center"> Aspect-based annotated corpus of web consumer reviews in Portuguese </h2>  
 
