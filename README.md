@@ -1,10 +1,10 @@
 ![image](https://user-images.githubusercontent.com/19657817/183250300-0cd26336-b33e-4353-ba9d-31f6f36181da.png)
 
 
-<h2 align="center"> Aspect-based annotated corpus of web consumer reviews in Portuguese </h2>  
+<h2 align="center"> Aspect-based annotated dataset of web consumer reviews in Portuguese </h2>  
 
 
-The AspectPRO corpus consist of implicit and explicit annotated aspects and  groups of (hierarchically organized) opinion aspects for aspect-based sentiment analysis applications, as well as text summarization.
+The AspectBR corpus consist of implicit and explicit annotated aspects and  groups of (hierarchically organized) opinion aspects for aspect-based sentiment analysis applications, as well as text summarization.
 
 <h3 align="left"> What is it? </h3>
 
@@ -22,19 +22,19 @@ The technical report on the project is available here: http://repositorio.icmc.u
 
 <h3 align="left"> Citing </h3>
 
-<p align="justify"> Vargas, F.A. and Pardo, T.A.S. (2017). "Clustering and hierarchical organization of opinion aspects: a corpus study". XIV Encontro de Linguística de Corpus (ELC), pp. 1-10. August 17-18. São Leopoldo-RS/Brazil</p>. 
+<p align="justify"> Vargas, F.A. and Pardo, T.A.S. (2017). "Aspect clustering methods for sentiment analysis". Proceedings of the 13th International Conference on the Computational Processing of Portuguese (PROPOR 2018), pp. 365–374. Canela, Brazil </p>. 
 
 
  <b>BIBTEX</b>
 
-@inproceedings{Vargas&Pardo2017,
- author = {Vargas, F. A. and Pardo, T. A. S.},
- title = {Clustering and hierarchical organization of opinion aspects: a corpus study},
- booktitle = {Proceedings of the 14th Meeting of Corpus Linguistics and 9th Brazilian School of Computational Linguistics},
- year = {2017},
- location = {São Leopoldo, Brazil},
- pages = {342--351},
- address = {São Leopoldo, Brazil},
+@inproceedings{Vargasetal2018,
+ author = {Vargas, F. and Pardo, T. A. S.},
+ title = {Aspect clustering methods for sentiment analysis},
+ booktitle = {Proceedings of the 13th International Conference on the Computational Processing of Portuguese (PROPOR 2018)},
+ year = {2018},
+ pages = {365–374},
+ address = {Canela, Brazil},
+ url = {https://link.springer.com/chapter/10.1007/978-3-319-99722-3_37},
 }
 
 
