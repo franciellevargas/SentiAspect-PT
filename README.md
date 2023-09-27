@@ -17,6 +17,7 @@ The AspectBR corpus consist of implicit and explicit annotated aspects and  grou
 
 ![Screenshot from 2019-09-16 12-10-13](https://user-images.githubusercontent.com/19657817/64970781-d7d33c00-d87c-11e9-9eba-50924b62c754.png)
 
+<br>
 
 <h3 align="left"> CITING</h3>
 
@@ -36,3 +37,9 @@ The AspectBR corpus consist of implicit and explicit annotated aspects and  grou
  url = {https://link.springer.com/chapter/10.1007/978-3-319-99722-3_37}}
 </p>
 
+<br>
+
+<h2 align="left"> ACKNOWLEDGEMENT </h2>
+<p align="justify">
+The authors are grateful to CAPES, FAPESP and USP Research Office for supporting this work.
+</p>
