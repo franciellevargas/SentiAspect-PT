@@ -6,7 +6,7 @@
 
 The AspectBR corpus consist of implicit and explicit annotated aspects and  groups of (hierarchically organized) opinion aspects for aspect-based sentiment analysis applications, as well as text summarization.
 
-<h3 align="left"> What is it? </h3>
+<h3 align="left"> AspectBR </h3>
 
 <p align="justify"> Natural languages are very rich and allow to express subjectivity in different ways. Consumers, for example, may use implicit or explicit aspects to refer to the same product property. e.g., the sentences “she got calls at the São Francisco river” and “working anywhere” have been employed in actual reviews to evaluate the (implicit) “signal” aspect of a smartphone. Therefore, not every opinion is directly expressed and not every aspect appears in a explicit way in the text. For example, in The camera is expensive, the evaluated aspect is “price”, but it is implicit, not being explicitly said in the sentence and, therefore, must be inferred from the context.</p> 
 
@@ -17,16 +17,15 @@ The AspectBR corpus consist of implicit and explicit annotated aspects and  grou
 
 ![Screenshot from 2019-09-16 12-10-13](https://user-images.githubusercontent.com/19657817/64970781-d7d33c00-d87c-11e9-9eba-50924b62c754.png)
 
-The technical report on the project is available here: http://repositorio.icmc.usp.br/handle/RIICMC/6568
 
+<h3 align="left"> CITING</h3>
 
-<h3 align="left"> Citing </h3>
+<p align="justify"> Vargas, F.A. and Pardo, T.A.S. (2017). <b>Aspect clustering methods for sentiment analysis</b>. Proceedings of the 13th International Conference on the Computational Processing of Portuguese (PROPOR 2018), pp. 365–374. Canela, Brazil </p>. 
 
-<p align="justify"> Vargas, F.A. and Pardo, T.A.S. (2017). "Aspect clustering methods for sentiment analysis". Proceedings of the 13th International Conference on the Computational Processing of Portuguese (PROPOR 2018), pp. 365–374. Canela, Brazil </p>. 
+<br>
 
-
- <b>BIBTEX</b>
-
+<h3 align="left">BIBTEX</h3>
+<p align="justify"> 
 @inproceedings{Vargasetal2018,
  author = {Vargas, F. and Pardo, T. A. S.},
  title = {Aspect clustering methods for sentiment analysis},
@@ -34,7 +33,6 @@ The technical report on the project is available here: http://repositorio.icmc.u
  year = {2018},
  pages = {365–374},
  address = {Canela, Brazil},
- url = {https://link.springer.com/chapter/10.1007/978-3-319-99722-3_37},
-}
-
+ url = {https://link.springer.com/chapter/10.1007/978-3-319-99722-3_37}}
+</p>
 
