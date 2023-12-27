@@ -1,4 +1,5 @@
-![image](https://user-images.githubusercontent.com/19657817/183250300-0cd26336-b33e-4353-ba9d-31f6f36181da.png)
+![SSC-logo-300x171](https://github.com/franciellevargas/HateBR/blob/7e5fe34063f89296b17f8c255b89360dfef75761/.github/icmc.png) 
+
 
 
 <h2 align="center"> Aspect-Based Annotated Dataset of Web Consumer Reviews in Portuguese </h2>  
