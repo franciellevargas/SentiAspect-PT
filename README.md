@@ -1,6 +1,4 @@
-![SSC-logo-300x171](https://github.com/franciellevargas/HateBR/blob/7e5fe34063f89296b17f8c255b89360dfef75761/.github/icmc.png) 
-
-
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10795201.svg)](https://doi.org/10.5281/zenodo.10795202)
 
 <h2 align="center"> Aspect-Based Annotated Dataset of Web Consumer Reviews in Portuguese </h2>  
 
