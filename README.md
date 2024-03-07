@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10795201.svg)](https://doi.org/10.5281/zenodo.10795202)
+[![DOI](https://zenodo.org/badge/200669271.svg)](https://zenodo.org/doi/10.5281/zenodo.10795234)
 
 <h2 align="center"> Aspect-Based Annotated Dataset of Web Consumer Reviews in Portuguese </h2>  
 
