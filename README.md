@@ -3,7 +3,7 @@
 <h2 align="center"> Aspect-Based Annotated Corpus of Web Consumer Reviews in Portuguese </h2>  
 
 
-The SentiAspect-pt corpus comprises 180 product reviews annotated at fine-grained opinion level. We manually annotated implicit and explicit aspects and hierarchically organized them for aspect-based sentiment analysis and opinion summarization applications in Portuguese.
+The SentiAspect-pt corpus comprises 180 annotated product reviews at fine-grained opinion level. We manually annotated implicit and explicit aspects and hierarchically organized them for aspect-based sentiment analysis and opinion summarization applications in Portuguese.
 
 <h2 align="left"> SentiAspect-pt Corpus </h2>
 
