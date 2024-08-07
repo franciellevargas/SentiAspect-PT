@@ -38,3 +38,9 @@ The SentiAspect-pt corpus comprises 180 annotated product reviews at fine-graine
 
 <br>
 
+
+<h2 align="left"> FUNDING </h2>
+
+![SSC-logo-300x171](https://github.com/franciellevargas/franciellevargas.github.io/blob/bf14bd4049c2bb7a56b30eaca5e26804f491ed89/img/icmc-logo.png)
+![SSC-logo-300x171](https://github.com/franciellevargas/franciellevargas.github.io/blob/bf14bd4049c2bb7a56b30eaca5e26804f491ed89/img/capes-logo.png)
+
