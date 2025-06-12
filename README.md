@@ -18,14 +18,10 @@ The SentiAspect-pt corpus comprises 180 annotated product reviews at fine-graine
 
 <br>
 
-<h2 align="left"> CITING</h2>
+<h2 align="left"> CITING / BIBTEX </h2>
 
-<p align="justify"> Vargas, F.A. and Pardo, T.A.S. (2017). <b>Aspect clustering methods for sentiment analysis</b>. Proceedings of the 13th International Conference on the Computational Processing of Portuguese (PROPOR 2018), pp. 365–374. Canela, Brazil </p>. 
-
-<br>
-
-<h2 align="left">BIBTEX</h2>
-<p align="justify"> 
+Please cite our paper if you use our dataset:
+```bibtex
 @inproceedings{Vargasetal2018,
  author = {Vargas, F. and Pardo, T. A. S.},
  title = {Aspect clustering methods for sentiment analysis},
@@ -33,10 +29,10 @@ The SentiAspect-pt corpus comprises 180 annotated product reviews at fine-graine
  year = {2018},
  pages = {365–374},
  address = {Canela, Brazil},
- url = {https://link.springer.com/chapter/10.1007/978-3-319-99722-3_37}}
-</p>
+ url = {https://link.springer.com/chapter/10.1007/978-3-319-99722-3_37}
+}
 
-<br>
+```
 
 
 <h2 align="left"> FUNDING </h2>
